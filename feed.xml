@@ -3,7 +3,7 @@
     <title>John Wood the Elder</title>
     <link href="https://cjazzuk.github.io/johnwoodtheelder/feed.xml" rel="self" />
     <link href="https://cjazzuk.github.io/johnwoodtheelder" />
-    <updated>2023-05-07T12:31:18+01:00</updated>
+    <updated>2023-05-07T12:39:32+01:00</updated>
     <author>
         <name>John Wood</name>
     </author>
@@ -16,16 +16,19 @@
         </author>
         <link href="https://cjazzuk.github.io/johnwoodtheelder/church-of-st-mary-tyberton/"/>
         <id>https://cjazzuk.github.io/johnwoodtheelder/church-of-st-mary-tyberton/</id>
+        <media:content url="https://cjazzuk.github.io/johnwoodtheelder/media/posts/2/church-of-st-mary-tyberton.jpeg" medium="image" />
             <category term="John Wood the Elder Buildings"/>
 
-        <updated>2023-05-07T12:31:18+01:00</updated>
+        <updated>2023-05-07T12:39:32+01:00</updated>
             <summary>
                 <![CDATA[
+                        <img src="https://cjazzuk.github.io/johnwoodtheelder/media/posts/2/church-of-st-mary-tyberton.jpeg" alt="Church of St Mary, Tyberton" />
                     Architect: John Wood the Elder Date: 1728 Description: In 1728 John Wood&hellip;
                 ]]>
             </summary>
         <content type="html">
             <![CDATA[
+                    <p><img src="https://cjazzuk.github.io/johnwoodtheelder/media/posts/2/church-of-st-mary-tyberton.jpeg" class="type:primaryImage" alt="Church of St Mary, Tyberton" /></p>
                 <h3 id="architect-john-wood-the-elder">Architect: John Wood the Elder</h3>
 <h3 id="date-1728">Date: 1728</h3>
 <h3 id="description">Description:</h3>
