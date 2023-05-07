@@ -9,5 +9,20 @@
         "name": "John Wood"
     },
     "items": [
+        {
+            "id": "https://cjazzuk.github.io/johnwoodtheelder/catharine-place-bath.html",
+            "url": "https://cjazzuk.github.io/johnwoodtheelder/catharine-place-bath.html",
+            "title": "Catharine Place, Bath",
+            "summary": "image: catharine-place-bath.jpeg Catharine Place, Bath (Photo: Geograph) Catharine Place, Bath designed by&hellip;",
+            "content_html": "<h2 id=\"image-catharine-place-bathjpeg\">image: catharine-place-bath.jpeg</h2>\n<p><em>Catharine Place, Bath (Photo: <a href=\"https://www.geograph.org.uk/photo/3818148\">Geograph</a>)</em></p>\n<h3 id=\"architect-john-wood-the-younger\">Architect: John Wood the Younger</h3>\n<h3 id=\"date-1777-84\">Date: 1777-84</h3>\n<h3 id=\"description\">Description:</h3>\n<p>Catharine Place, Bath designed by John Wood the Younger between 1777-1784.</p>\n<h3 id=\"location\">Location:</h3>\n<ul>\n<li><p>Grid Reference: ST 74648 65409</p>\n</li>\n<li><p>Latitude, Longitude (degs, mins, secs): 51°23′14″N , 002°21′57″W</p>\n</li>\n<li><p>What3Words: <a href=\"https://w3w.co/remind.person.gold\">remind.person.gold</a></p>\n</li>\n<li><p>QR:</p>\n</li>\n</ul>\n<p><figure class=\"post__image\"><img loading=\"lazy\" src=\"../assets/img/catharine-place-bath-qr.png\" alt=\"Catharine Place, Bath\"  data-is-external-image=\"true\"></figure></p>\n<div class=\"post__iframe\"><iframe src=\"https://www.google.com/maps/embed?pb=!1m17!1m12!1m3!1d2489.8653367266174!2d-2.367902984234457!3d51.387152979615585!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m2!1m1!2zNTHCsDIzJzEzLjgiTiAywrAyMSc1Ni42Ilc!5e0!3m2!1sen!2suk!4v1683134105898!5m2!1sen!2suk\" width=\"600\" height=\"450\" style=\"border:0;\" allowfullscreen=\"\" loading=\"lazy\" referrerpolicy=\"no-referrer-when-downgrade\"></iframe></div>\n",
+            "author": {
+                "name": "John Wood"
+            },
+            "tags": [
+                   "John Wood the Younger Buildings"
+            ],
+            "date_published": "2023-05-07T12:22:53+01:00",
+            "date_modified": "2023-05-07T12:22:53+01:00"
+        }
     ]
 }
