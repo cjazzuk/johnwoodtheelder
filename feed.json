@@ -2,8 +2,8 @@
     "version": "https://jsonfeed.org/version/1",
     "title": "John Wood the Elder",
     "description": "",
-    "home_page_url": "https://cjazzuk/johnwoodtheelder",
-    "feed_url": "https://cjazzuk/johnwoodtheelder/feed.json",
+    "home_page_url": "https://cjazzuk.github.io/johnwoodtheelder",
+    "feed_url": "https://cjazzuk.github.io/johnwoodtheelder/feed.json",
     "user_comment": "",
     "author": {
         "name": "John Wood"
