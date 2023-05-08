@@ -3,12 +3,46 @@
     <title>John Wood the Elder</title>
     <link href="https://cjazzuk.github.io/johnwoodtheelder/feed.xml" rel="self" />
     <link href="https://cjazzuk.github.io/johnwoodtheelder" />
-    <updated>2023-05-07T16:09:04+01:00</updated>
+    <updated>2023-05-08T11:10:08+01:00</updated>
     <author>
         <name>John Wood</name>
     </author>
     <id>https://cjazzuk.github.io/johnwoodtheelder</id>
 
+    <entry>
+        <title>Map</title>
+        <author>
+            <name>John Wood</name>
+        </author>
+        <link href="https://cjazzuk.github.io/johnwoodtheelder/timeline-2/"/>
+        <id>https://cjazzuk.github.io/johnwoodtheelder/timeline-2/</id>
+
+        <updated>2023-05-08T11:10:08+01:00</updated>
+            <summary></summary>
+        <content type="html">
+            <![CDATA[
+                <h2>The map below shows the locations of Buildings designed by John Wood the Elder or his son John Wood the Younger and other key locations.</h2>
+<div class="post__iframe"><iframe loading="lazy" width="600" height="450" allow="autoplay; fullscreen" scrolling="no" data-image-dimensions="600x450" allowfullscreen="allowfullscreen" src="https://cdn.embedly.com/widgets/media.html?src=https%3A%2F%2Fwww.google.com%2Fmaps%2Fd%2Fembed%3Fmid%3D1UDAPIBKR7LnkrN6Uz9DWq8hmmQw%26hl%3Den&amp;display_name=Google+Maps&amp;url=https%3A%2F%2Fwww.google.com%2Fmaps%2Fd%2Fviewer%3Fmid%3D1UDAPIBKR7LnkrN6Uz9DWq8hmmQw%26hl%3Den&amp;image=https%3A%2F%2Fwww.google.com%2Fmaps%2Fd%2Fthumbnail%3Fmid%3D1UDAPIBKR7LnkrN6Uz9DWq8hmmQw%26hl%3Den&amp;key=61d05c9d54e8455ea7a9677c366be814&amp;type=text%2Fhtml&amp;schema=google&amp;wmode=opaque" data-embed="true" frameborder="0" title="Google Maps embed" class="embedly-embed"></iframe></div>
+            ]]>
+        </content>
+    </entry>
+    <entry>
+        <title>Timeline</title>
+        <author>
+            <name>John Wood</name>
+        </author>
+        <link href="https://cjazzuk.github.io/johnwoodtheelder/timeline/"/>
+        <id>https://cjazzuk.github.io/johnwoodtheelder/timeline/</id>
+
+        <updated>2023-05-07T16:32:03+01:00</updated>
+            <summary></summary>
+        <content type="html">
+            <![CDATA[
+                <h2>The Buildings of John Wood the Elder and John Wood the Younger.</h2>
+<div class="post__iframe"><iframe loading="lazy" width="800" height="700" mozallowfullscreen="mozallowfullscreen" allowfullscreen="allowfullscreen" src="https://cdn.knightlab.com/libs/timeline3/latest/embed/index.html?source=1kNUzy9F5yX29MZM-5JabKhMOt_TgfjMrzN1A1JOhUGg&amp;font=Default&amp;lang=en&amp;initial_zoom=2&amp;wmode=opaque" data-embed="true" webkitallowfullscreen="webkitallowfullscreen" frameborder="0"></iframe></div>
+            ]]>
+        </content>
+    </entry>
     <entry>
         <title>Church of St Mary, Tyberton</title>
         <author>
