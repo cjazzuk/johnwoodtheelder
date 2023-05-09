@@ -1,14 +1,71 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom" xmlns:media="http://search.yahoo.com/mrss/">
-    <title>John Wood the Elder</title>
+    <title>John Wood the Elder (1704-1754)</title>
     <link href="https://cjazzuk.github.io/johnwoodtheelder/feed.xml" rel="self" />
     <link href="https://cjazzuk.github.io/johnwoodtheelder" />
-    <updated>2023-05-08T11:10:08+01:00</updated>
+    <updated>2023-05-09T07:43:33+01:00</updated>
     <author>
         <name>John Wood</name>
     </author>
     <id>https://cjazzuk.github.io/johnwoodtheelder</id>
 
+    <entry>
+        <title>About</title>
+        <author>
+            <name>John Wood</name>
+        </author>
+        <link href="https://cjazzuk.github.io/johnwoodtheelder/timeline-3/"/>
+        <id>https://cjazzuk.github.io/johnwoodtheelder/timeline-3/</id>
+
+        <updated>2023-05-09T07:43:33+01:00</updated>
+            <summary>
+                <![CDATA[
+                    The map below shows the locations of Buildings designed by John Wood the Elder or his son John Wood the&hellip;
+                ]]>
+            </summary>
+        <content type="html">
+            <![CDATA[
+                <h2>The map below shows the locations of Buildings designed by John Wood the Elder or his son John Wood the Younger and other key locations.</h2>
+<figure class="post__image"><img loading="lazy"  src="https://cjazzuk.github.io/johnwoodtheelder/media/posts/7/john-wood-the-elder.jpeg" alt="John Wood the Elder" width="200" height="300" sizes="(max-width: 48em) 100vw, 100vw" srcset="https://cjazzuk.github.io/johnwoodtheelder/media/posts/7/responsive/john-wood-the-elder-xs.jpeg 300w ,https://cjazzuk.github.io/johnwoodtheelder/media/posts/7/responsive/john-wood-the-elder-sm.jpeg 480w ,https://cjazzuk.github.io/johnwoodtheelder/media/posts/7/responsive/john-wood-the-elder-md.jpeg 768w"></figure>
+<p> </p>
+            ]]>
+        </content>
+    </entry>
+    <entry>
+        <title>Catharine Place, Bath</title>
+        <author>
+            <name>John Wood</name>
+        </author>
+        <link href="https://cjazzuk.github.io/johnwoodtheelder/church-of-st-mary-tyberton-3/"/>
+        <id>https://cjazzuk.github.io/johnwoodtheelder/church-of-st-mary-tyberton-3/</id>
+        <media:content url="https://cjazzuk.github.io/johnwoodtheelder/media/posts/6/catharine-place-bath.jpeg" medium="image" />
+            <category term="John Wood the Elder Buildings"/>
+
+        <updated>2023-05-08T15:53:47+01:00</updated>
+            <summary>
+                <![CDATA[
+                        <img src="https://cjazzuk.github.io/johnwoodtheelder/media/posts/6/catharine-place-bath.jpeg" alt="Catharine Place, Bath" />
+                    Architect: John Wood the Younger Date: 1777-84 Description: Catharine Place, Bath designed by John Wood the Younger between 1777-1784. Location: Grid&hellip;
+                ]]>
+            </summary>
+        <content type="html">
+            <![CDATA[
+                    <p><img src="https://cjazzuk.github.io/johnwoodtheelder/media/posts/6/catharine-place-bath.jpeg" class="type:primaryImage" alt="Catharine Place, Bath" /></p>
+                <h2>Architect: John Wood the Younger</h2>
+<h3>Date: 1777-84</h3>
+<h3>Description:</h3>
+<p>Catharine Place, Bath designed by John Wood the Younger between 1777-1784.</p>
+<h2>Location:</h2>
+<ul>
+<li>Grid Reference: ST 74648 65409</li>
+<li>Latitude, Longitude (degs, mins, secs): 51°23′14″N , 002°21′57″W</li>
+<li>What3Words: <a href="https://w3w.co/remind.person.gold">remind.person.gold</a></li>
+<li>QR:<figure class="post__image"><img loading="lazy"  src="https://cjazzuk.github.io/johnwoodtheelder/media/posts/6/catharineplacebath-qr.png" alt="" width="230" height="230" sizes="(max-width: 48em) 100vw, 100vw" srcset="https://cjazzuk.github.io/johnwoodtheelder/media/posts/6/responsive/catharineplacebath-qr-xs.png 300w ,https://cjazzuk.github.io/johnwoodtheelder/media/posts/6/responsive/catharineplacebath-qr-sm.png 480w ,https://cjazzuk.github.io/johnwoodtheelder/media/posts/6/responsive/catharineplacebath-qr-md.png 768w"></figure></li>
+</ul>
+<div class="post__iframe"><iframe width="600" height="450" style="border: 0;" src="https://www.google.com/maps/embed?pb=!1m17!1m12!1m3!1d2489.8653367266174!2d-2.367902984234457!3d51.387152979615585!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m2!1m1!2zNTHCsDIzJzEzLjgiTiAywrAyMSc1Ni42Ilc!5e0!3m2!1sen!2suk!4v1683134105898!5m2!1sen!2suk" allowfullscreen="allowfullscreen" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe></div>
+            ]]>
+        </content>
+    </entry>
     <entry>
         <title>Map</title>
         <author>
@@ -18,7 +75,11 @@
         <id>https://cjazzuk.github.io/johnwoodtheelder/timeline-2/</id>
 
         <updated>2023-05-08T11:10:08+01:00</updated>
-            <summary></summary>
+            <summary>
+                <![CDATA[
+                    The map below shows the locations of Buildings designed by John Wood the Elder or his son John Wood the&hellip;
+                ]]>
+            </summary>
         <content type="html">
             <![CDATA[
                 <h2>The map below shows the locations of Buildings designed by John Wood the Elder or his son John Wood the Younger and other key locations.</h2>
@@ -35,7 +96,11 @@
         <id>https://cjazzuk.github.io/johnwoodtheelder/timeline/</id>
 
         <updated>2023-05-07T16:32:03+01:00</updated>
-            <summary></summary>
+            <summary>
+                <![CDATA[
+                    The Buildings of John Wood the Elder and John Wood the Younger.
+                ]]>
+            </summary>
         <content type="html">
             <![CDATA[
                 <h2>The Buildings of John Wood the Elder and John Wood the Younger.</h2>
@@ -53,8 +118,13 @@
         <media:content url="https://cjazzuk.github.io/johnwoodtheelder/media/posts/3/church-of-st-mary-tyberton-2.jpeg" medium="image" />
             <category term="John Wood the Elder Buildings"/>
 
-        <updated>2023-05-07T16:09:04+01:00</updated>
-            <summary></summary>
+        <updated>2023-05-08T15:52:15+01:00</updated>
+            <summary>
+                <![CDATA[
+                        <img src="https://cjazzuk.github.io/johnwoodtheelder/media/posts/3/church-of-st-mary-tyberton-2.jpeg" alt="" />
+                    Architect: John Wood the Elder Date: 1728 Description: In 1728 John Wood the Elder designed the carved oak reredos. Location:&hellip;
+                ]]>
+            </summary>
         <content type="html">
             <![CDATA[
                     <p><img src="https://cjazzuk.github.io/johnwoodtheelder/media/posts/3/church-of-st-mary-tyberton-2.jpeg" class="type:primaryImage" alt="" /></p>
@@ -67,45 +137,9 @@
 <li>Grid Reference: SO 38024 39894</li>
 <li>Latitude, Longitude (degs, mins, secs): 52°03′14″N , 002°54′19″W</li>
 <li>What3Words: <a href="https://w3w.co/lessening.mobile.crackles">lessening.mobile.crackles</a></li>
-<li>QR:<figure class="post__image"><img loading="lazy"  src="https://cjazzuk.github.io/johnwoodtheelder/media/posts/3/church-of-st-mary-tyberton-qr-2.png" alt="" width="230" height="230" sizes="(max-width: 768px) 100vw, 1360px" srcset="https://cjazzuk.github.io/johnwoodtheelder/media/posts/3/responsive/church-of-st-mary-tyberton-qr-2-xs.png 300w ,https://cjazzuk.github.io/johnwoodtheelder/media/posts/3/responsive/church-of-st-mary-tyberton-qr-2-sm.png 480w ,https://cjazzuk.github.io/johnwoodtheelder/media/posts/3/responsive/church-of-st-mary-tyberton-qr-2-md.png 768w ,https://cjazzuk.github.io/johnwoodtheelder/media/posts/3/responsive/church-of-st-mary-tyberton-qr-2-lg.png 1024w ,https://cjazzuk.github.io/johnwoodtheelder/media/posts/3/responsive/church-of-st-mary-tyberton-qr-2-xl.png 1360w"></figure></li>
+<li>QR:<figure class="post__image"><img loading="lazy"  src="https://cjazzuk.github.io/johnwoodtheelder/media/posts/3/church-of-st-mary-tyberton-qr-2.png" alt="" width="230" height="230" sizes="(max-width: 48em) 100vw, 100vw" srcset="https://cjazzuk.github.io/johnwoodtheelder/media/posts/3/responsive/church-of-st-mary-tyberton-qr-2-xs.png 300w ,https://cjazzuk.github.io/johnwoodtheelder/media/posts/3/responsive/church-of-st-mary-tyberton-qr-2-sm.png 480w ,https://cjazzuk.github.io/johnwoodtheelder/media/posts/3/responsive/church-of-st-mary-tyberton-qr-2-md.png 768w"></figure></li>
 </ul>
 <div class="post__iframe"><iframe width="600" height="450" style="border: 0;" src="https://www.google.com/maps/embed?pb=!1m17!1m12!1m3!1d2453.416195444907!2d-2.9074501842098313!3d52.053944979728634!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m2!1m1!2zNTLCsDAzJzE0LjIiTiAywrA1NCcxOC45Ilc!5e0!3m2!1sen!2suk!4v1683184856940!5m2!1sen!2suk" allowfullscreen="allowfullscreen" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe></div>
-            ]]>
-        </content>
-    </entry>
-    <entry>
-        <title>Catharine Place, Bath</title>
-        <author>
-            <name>John Wood</name>
-        </author>
-        <link href="https://cjazzuk.github.io/johnwoodtheelder/catharine-place-bath/"/>
-        <id>https://cjazzuk.github.io/johnwoodtheelder/catharine-place-bath/</id>
-            <category term="John Wood the Younger Buildings"/>
-
-        <updated>2023-05-07T12:27:59+01:00</updated>
-            <summary></summary>
-        <content type="html">
-            <![CDATA[
-                <h2 id="image-catharine-place-bathjpeg">image: catharine-place-bath.jpeg</h2>
-<p><em>Catharine Place, Bath (Photo: <a href="https://www.geograph.org.uk/photo/3818148">Geograph</a>)</em></p>
-<h3 id="architect-john-wood-the-younger">Architect: John Wood the Younger</h3>
-<h3 id="date-1777-84">Date: 1777-84</h3>
-<h3 id="description">Description:</h3>
-<p>Catharine Place, Bath designed by John Wood the Younger between 1777-1784.</p>
-<h3 id="location">Location:</h3>
-<ul>
-<li><p>Grid Reference: ST 74648 65409</p>
-</li>
-<li><p>Latitude, Longitude (degs, mins, secs): 51°23′14″N , 002°21′57″W</p>
-</li>
-<li><p>What3Words: <a href="https://w3w.co/remind.person.gold">remind.person.gold</a></p>
-</li>
-<li><p>QR:</p>
-</li>
-</ul>
-<p><figure class="post__image"><img loading="lazy" src="../assets/img/catharine-place-bath-qr.png" alt="Catharine Place, Bath"  data-is-external-image="true"></figure></p>
-<div class="post__iframe"><iframe src="https://www.google.com/maps/embed?pb=!1m17!1m12!1m3!1d2489.8653367266174!2d-2.367902984234457!3d51.387152979615585!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m2!1m1!2zNTHCsDIzJzEzLjgiTiAywrAyMSc1Ni42Ilc!5e0!3m2!1sen!2suk!4v1683134105898!5m2!1sen!2suk" width="600" height="450" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe></div>
-
             ]]>
         </content>
     </entry>

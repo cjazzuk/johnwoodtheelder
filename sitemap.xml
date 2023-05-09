@@ -5,12 +5,8 @@
 <loc>https://cjazzuk.github.io/johnwoodtheelder/</loc>
 </url>
 <url>
-<loc>https://cjazzuk.github.io/johnwoodtheelder/catharine-place-bath/</loc>
-<lastmod>2023-05-07T12:27:59+01:00</lastmod>
-</url>
-<url>
 <loc>https://cjazzuk.github.io/johnwoodtheelder/church-of-st-mary-tyberton-2/</loc>
-<lastmod>2023-05-07T16:09:04+01:00</lastmod>
+<lastmod>2023-05-08T15:52:15+01:00</lastmod>
 <image:image>
 <image:loc>https://cjazzuk.github.io/johnwoodtheelder/media/posts/3/church-of-st-mary-tyberton-2.jpeg</image:loc>
 <image:title><![CDATA[]]></image:title>
@@ -21,11 +17,31 @@
 </image:image>
 </url>
 <url>
+<loc>https://cjazzuk.github.io/johnwoodtheelder/church-of-st-mary-tyberton-3/</loc>
+<lastmod>2023-05-08T15:53:47+01:00</lastmod>
+<image:image>
+<image:loc>https://cjazzuk.github.io/johnwoodtheelder/media/posts/6/catharine-place-bath.jpeg</image:loc>
+<image:title><![CDATA[Catharine Place, Bath]]></image:title>
+</image:image>
+<image:image>
+<image:loc>https://cjazzuk.github.io/johnwoodtheelder/media/posts/6/catharineplacebath-qr.png</image:loc>
+<image:title><![CDATA[]]></image:title>
+</image:image>
+</url>
+<url>
 <loc>https://cjazzuk.github.io/johnwoodtheelder/timeline/</loc>
 <lastmod>2023-05-07T16:32:03+01:00</lastmod>
 </url>
 <url>
 <loc>https://cjazzuk.github.io/johnwoodtheelder/timeline-2/</loc>
 <lastmod>2023-05-08T11:10:08+01:00</lastmod>
+</url>
+<url>
+<loc>https://cjazzuk.github.io/johnwoodtheelder/timeline-3/</loc>
+<lastmod>2023-05-09T07:43:33+01:00</lastmod>
+<image:image>
+<image:loc>https://cjazzuk.github.io/johnwoodtheelder/media/posts/7/john-wood-the-elder.jpeg</image:loc>
+<image:title><![CDATA[John Wood the Elder]]></image:title>
+</image:image>
 </url>
 </urlset>
