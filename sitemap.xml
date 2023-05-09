@@ -1,62 +1,62 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<?xml-stylesheet type="text/xsl" href="https://cjazz.co.uk/johnwoodtheelder/sitemap.xsl"?>
+<?xml-stylesheet type="text/xsl" href="https://cjazz.github.io/johnwoodtheelder/sitemap.xsl"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.sitemaps.org/schemas/sitemap/0.9 http://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd" xmlns:image="http://www.google.com/schemas/sitemap-image/1.1">
 <url>
-<loc>https://cjazz.co.uk/johnwoodtheelder/</loc>
+<loc>https://cjazz.github.io/johnwoodtheelder/</loc>
 </url>
 <url>
-<loc>https://cjazz.co.uk/johnwoodtheelder/belcomb-brook-bradford-upon-avon/</loc>
+<loc>https://cjazz.github.io/johnwoodtheelder/belcomb-brook-bradford-upon-avon/</loc>
 <lastmod>2023-05-09T13:14:41+01:00</lastmod>
 <image:image>
-<image:loc>https://cjazz.co.uk/johnwoodtheelder/media/posts/8/belcomb-brook.png</image:loc>
+<image:loc>https://cjazz.github.io/johnwoodtheelder/media/posts/8/belcomb-brook.png</image:loc>
 <image:title><![CDATA[Belcomb Brook, Bradford Upon Avon]]></image:title>
 </image:image>
 <image:image>
-<image:loc>https://cjazz.co.uk/johnwoodtheelder/media/posts/8/belcombe-brook-qr.png</image:loc>
+<image:loc>https://cjazz.github.io/johnwoodtheelder/media/posts/8/belcombe-brook-qr.png</image:loc>
 <image:title><![CDATA[]]></image:title>
 </image:image>
 <image:image>
-<image:loc>https://cjazz.co.uk/johnwoodtheelder/media/posts/8/belcomb-brook-drawing.png</image:loc>
+<image:loc>https://cjazz.github.io/johnwoodtheelder/media/posts/8/belcomb-brook-drawing.png</image:loc>
 <image:title><![CDATA[From John Wood the Elder’s ‘A Description of Bath’]]></image:title>
 </image:image>
 </url>
 <url>
-<loc>https://cjazz.co.uk/johnwoodtheelder/catharine-place-bath-2/</loc>
+<loc>https://cjazz.github.io/johnwoodtheelder/catharine-place-bath-2/</loc>
 <lastmod>2023-05-09T07:56:38+01:00</lastmod>
 <image:image>
-<image:loc>https://cjazz.co.uk/johnwoodtheelder/media/posts/6/catharine-place-bath.jpeg</image:loc>
+<image:loc>https://cjazz.github.io/johnwoodtheelder/media/posts/6/catharine-place-bath.jpeg</image:loc>
 <image:title><![CDATA[Catharine Place, Bath]]></image:title>
 </image:image>
 <image:image>
-<image:loc>https://cjazz.co.uk/johnwoodtheelder/media/posts/6/catharineplacebath-qr.png</image:loc>
+<image:loc>https://cjazz.github.io/johnwoodtheelder/media/posts/6/catharineplacebath-qr.png</image:loc>
 <image:title><![CDATA[]]></image:title>
 </image:image>
 </url>
 <url>
-<loc>https://cjazz.co.uk/johnwoodtheelder/church-of-st-mary-tyberton-2/</loc>
+<loc>https://cjazz.github.io/johnwoodtheelder/church-of-st-mary-tyberton-2/</loc>
 <lastmod>2023-05-09T13:14:35+01:00</lastmod>
 <image:image>
-<image:loc>https://cjazz.co.uk/johnwoodtheelder/media/posts/3/church-of-st-mary-tyberton-2.jpeg</image:loc>
+<image:loc>https://cjazz.github.io/johnwoodtheelder/media/posts/3/church-of-st-mary-tyberton-2.jpeg</image:loc>
 <image:title><![CDATA[]]></image:title>
 </image:image>
 <image:image>
-<image:loc>https://cjazz.co.uk/johnwoodtheelder/media/posts/3/church-of-st-mary-tyberton-qr-2.png</image:loc>
+<image:loc>https://cjazz.github.io/johnwoodtheelder/media/posts/3/church-of-st-mary-tyberton-qr-2.png</image:loc>
 <image:title><![CDATA[]]></image:title>
 </image:image>
 </url>
 <url>
-<loc>https://cjazz.co.uk/johnwoodtheelder/map/</loc>
+<loc>https://cjazz.github.io/johnwoodtheelder/map/</loc>
 <lastmod>2023-05-09T13:14:29+01:00</lastmod>
 </url>
 <url>
-<loc>https://cjazz.co.uk/johnwoodtheelder/timeline/</loc>
+<loc>https://cjazz.github.io/johnwoodtheelder/timeline/</loc>
 <lastmod>2023-05-09T13:14:22+01:00</lastmod>
 </url>
 <url>
-<loc>https://cjazz.co.uk/johnwoodtheelder/timeline-3/</loc>
+<loc>https://cjazz.github.io/johnwoodtheelder/timeline-3/</loc>
 <lastmod>2023-05-09T07:43:33+01:00</lastmod>
 <image:image>
-<image:loc>https://cjazz.co.uk/johnwoodtheelder/media/posts/7/john-wood-the-elder.jpeg</image:loc>
+<image:loc>https://cjazz.github.io/johnwoodtheelder/media/posts/7/john-wood-the-elder.jpeg</image:loc>
 <image:title><![CDATA[John Wood the Elder]]></image:title>
 </image:image>
 </url>
