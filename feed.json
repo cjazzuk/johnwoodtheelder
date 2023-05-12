@@ -10,22 +10,6 @@
     },
     "items": [
         {
-            "id": "https://www.georgianbath.co.uk/john-wood-the-elders-drawing-instruments/",
-            "url": "https://www.georgianbath.co.uk/john-wood-the-elders-drawing-instruments/",
-            "title": "John Wood the Elder’s Drawing Instruments",
-            "summary": "14th February 2022 In 2016 the Bath Preservation Trust was able to purchase at auction the drawing instruments owned by&hellip;",
-            "content_html": "<pre>14th February 2022</pre>\n<p>In 2016 the Bath Preservation Trust was able to purchase at auction the drawing instruments owned by John Wood the Elder. They paid £21,000 for the set that was made around 1745 by the leading architectural instrument maker Thomas Heath of London.</p>\n<figure class=\"post__image\"><img loading=\"lazy\"  src=\"https://www.georgianbath.co.uk/media/posts/16/john-wood-the-elder-drawing-instruments-1.jpeg\" alt=\"John Wood the Elder's - Drawing Instruments\" width=\"1200\" height=\"800\" sizes=\"(max-width: 48em) 100vw, 100vw\" srcset=\"https://www.georgianbath.co.uk/media/posts/16/responsive/john-wood-the-elder-drawing-instruments-1-xs.jpeg 300w ,https://www.georgianbath.co.uk/media/posts/16/responsive/john-wood-the-elder-drawing-instruments-1-sm.jpeg 480w ,https://www.georgianbath.co.uk/media/posts/16/responsive/john-wood-the-elder-drawing-instruments-1-md.jpeg 768w\"><figcaption>John Wood the Elder's - Drawing Instruments</figcaption></figure>\n<p>The set is housed in a silver and fish skin case which has his familiar coat of arms. Inside the case comprises a silver scale ruler, an ivory sector ruler with silver mounts, compass, dividers, bow, two pens and a pencil. </p>\n<figure class=\"post__image\"><img loading=\"lazy\"  src=\"https://www.georgianbath.co.uk/media/posts/16/john-wood-the-elder-drawing-instruments-2.jpeg\" alt=\"John Wood the Elder’s drawing instruments\" width=\"1500\" height=\"843\" sizes=\"(max-width: 48em) 100vw, 100vw\" srcset=\"https://www.georgianbath.co.uk/media/posts/16/responsive/john-wood-the-elder-drawing-instruments-2-xs.jpeg 300w ,https://www.georgianbath.co.uk/media/posts/16/responsive/john-wood-the-elder-drawing-instruments-2-sm.jpeg 480w ,https://www.georgianbath.co.uk/media/posts/16/responsive/john-wood-the-elder-drawing-instruments-2-md.jpeg 768w\"><figcaption>John Wood the Elder’s drawing instruments</figcaption></figure>\n<p>The set is on display at the <a href=\"https://link.johnwoodtheelder.co.uk/MoBA\" target=\"_blank\" rel=\"noopener noreferrer\">Museum of Bath Architecture</a>.</p>",
-            "image": "https://www.georgianbath.co.uk/media/posts/16/john-wood-the-elder-drawing-instruments-1-2.jpeg",
-            "author": {
-                "name": "John Wood"
-            },
-            "tags": [
-                   "News"
-            ],
-            "date_published": "2023-05-11T06:56:24+01:00",
-            "date_modified": "2023-05-11T06:56:24+01:00"
-        },
-        {
             "id": "https://www.georgianbath.co.uk/acton-castle-cornwall/",
             "url": "https://www.georgianbath.co.uk/acton-castle-cornwall/",
             "title": "Acton Castle, Cornwall",
@@ -166,6 +150,22 @@
             ],
             "date_published": "2023-05-09T07:42:20+01:00",
             "date_modified": "2023-05-09T07:43:33+01:00"
+        },
+        {
+            "id": "https://www.georgianbath.co.uk/catharine-place-bath-2/",
+            "url": "https://www.georgianbath.co.uk/catharine-place-bath-2/",
+            "title": "Catharine Place, Bath",
+            "summary": "Architect: John Wood the Younger Date: 1777-84 Description: Catharine Place, Bath designed by John Wood the Younger between 1777-1784. Location: Grid&hellip;",
+            "content_html": "<h2>Architect: John Wood the Younger</h2>\n<h3>Date: 1777-84</h3>\n<h3>Description:</h3>\n<p>Catharine Place, Bath designed by John Wood the Younger between 1777-1784.</p>\n<h2>Location:</h2>\n<ul>\n<li>Grid Reference: ST 74648 65409</li>\n<li>Latitude, Longitude (degs, mins, secs): 51°23′14″N , 002°21′57″W</li>\n<li>What3Words: <a href=\"https://w3w.co/remind.person.gold\">remind.person.gold</a></li>\n<li>QR:<figure class=\"post__image\"><img loading=\"lazy\"  src=\"https://www.georgianbath.co.uk/media/posts/6/catharineplacebath-qr.png\" alt=\"\" width=\"230\" height=\"230\" sizes=\"(max-width: 48em) 100vw, 100vw\" srcset=\"https://www.georgianbath.co.uk/media/posts/6/responsive/catharineplacebath-qr-xs.png 300w ,https://www.georgianbath.co.uk/media/posts/6/responsive/catharineplacebath-qr-sm.png 480w ,https://www.georgianbath.co.uk/media/posts/6/responsive/catharineplacebath-qr-md.png 768w\"></figure></li>\n</ul>\n<div class=\"post__iframe\"><iframe width=\"600\" height=\"450\" style=\"border: 0;\" src=\"https://www.google.com/maps/embed?pb=!1m17!1m12!1m3!1d2489.8653367266174!2d-2.367902984234457!3d51.387152979615585!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m2!1m1!2zNTHCsDIzJzEzLjgiTiAywrAyMSc1Ni42Ilc!5e0!3m2!1sen!2suk!4v1683134105898!5m2!1sen!2suk\" allowfullscreen=\"allowfullscreen\" loading=\"lazy\" referrerpolicy=\"no-referrer-when-downgrade\"></iframe></div>",
+            "image": "https://www.georgianbath.co.uk/media/posts/6/catharine-place-bath.jpeg",
+            "author": {
+                "name": "John Wood"
+            },
+            "tags": [
+                   "John Wood the Younger Buildings"
+            ],
+            "date_published": "2023-05-08T15:48:26+01:00",
+            "date_modified": "2023-05-09T13:39:29+01:00"
         }
     ]
 }
