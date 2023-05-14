@@ -41,6 +41,18 @@
 </image:image>
 </url>
 <url>
+<loc>https://www.georgianbath.co.uk/bathford-spaw/</loc>
+<lastmod>2023-05-14T07:41:47+01:00</lastmod>
+<image:image>
+<image:loc>https://www.georgianbath.co.uk/media/posts/28/bathford-spaw.png</image:loc>
+<image:title><![CDATA[Bathford Spaw]]></image:title>
+</image:image>
+<image:image>
+<image:loc>https://www.georgianbath.co.uk/media/posts/28/bathford-spaw-qr.png</image:loc>
+<image:title><![CDATA[]]></image:title>
+</image:image>
+</url>
+<url>
 <loc>https://www.georgianbath.co.uk/belcomb-brook-bradford-upon-avon/</loc>
 <lastmod>2023-05-14T06:54:13+01:00</lastmod>
 <image:image>
@@ -202,10 +214,14 @@
 </url>
 <url>
 <loc>https://www.georgianbath.co.uk/lilliput-castle-lansdown-bath/</loc>
-<lastmod>2023-05-14T07:10:26+01:00</lastmod>
+<lastmod>2023-05-14T07:50:59+01:00</lastmod>
 <image:image>
 <image:loc>https://www.georgianbath.co.uk/media/posts/26/lilliput-castle-battlefields-house-bath.jpeg</image:loc>
 <image:title><![CDATA[Lilliput Castle, Lansdown, Bath]]></image:title>
+</image:image>
+<image:image>
+<image:loc>https://www.georgianbath.co.uk/media/posts/26/lilliput-castle.png</image:loc>
+<image:title><![CDATA[]]></image:title>
 </image:image>
 <image:image>
 <image:loc>https://www.georgianbath.co.uk/media/posts/26/lilliput-castle-qr.png</image:loc>
@@ -214,7 +230,7 @@
 </url>
 <url>
 <loc>https://www.georgianbath.co.uk/lyncombe-spaw-bath/</loc>
-<lastmod>2023-05-14T07:03:36+01:00</lastmod>
+<lastmod>2023-05-14T07:36:22+01:00</lastmod>
 <image:image>
 <image:loc>https://www.georgianbath.co.uk/media/posts/25/lyncombe-spaw.png</image:loc>
 <image:title><![CDATA[Lyncombe Spaw, Bath]]></image:title>
@@ -261,6 +277,26 @@
 </image:image>
 </url>
 <url>
+<loc>https://www.georgianbath.co.uk/st-marys-chapel-queen-square-bath/</loc>
+<lastmod>2023-05-14T07:51:23+01:00</lastmod>
+<image:image>
+<image:loc>https://www.georgianbath.co.uk/media/posts/29/St-Marys-Chapel-Queen-Square-Bath.jpg</image:loc>
+<image:title><![CDATA[St. Mary's Chapel, Queen Square, Bath]]></image:title>
+</image:image>
+<image:image>
+<image:loc>https://www.georgianbath.co.uk/media/posts/29/St-Marys-Chapel-Queen-Square-thorpes-map.png</image:loc>
+<image:title><![CDATA[]]></image:title>
+</image:image>
+<image:image>
+<image:loc>https://www.georgianbath.co.uk/media/posts/29/Queen-Square-F-Curtis.jpeg</image:loc>
+<image:title><![CDATA[]]></image:title>
+</image:image>
+<image:image>
+<image:loc>https://www.georgianbath.co.uk/media/posts/29/St-Marys-Chapel-Queen-Square-Bath-qr.png</image:loc>
+<image:title><![CDATA[]]></image:title>
+</image:image>
+</url>
+<url>
 <loc>https://www.georgianbath.co.uk/timeline/</loc>
 <lastmod>2023-05-09T15:29:30+01:00</lastmod>
 </url>
@@ -270,6 +306,22 @@
 <image:image>
 <image:loc>https://www.georgianbath.co.uk/media/posts/7/john-wood-the-elder.jpeg</image:loc>
 <image:title><![CDATA[John Wood the Elder]]></image:title>
+</image:image>
+</url>
+<url>
+<loc>https://www.georgianbath.co.uk/titanbarrow-logia-bathford/</loc>
+<lastmod>2023-05-14T07:33:17+01:00</lastmod>
+<image:image>
+<image:loc>https://www.georgianbath.co.uk/media/posts/27/titan-barrow.jpeg</image:loc>
+<image:title><![CDATA[Titanbarrow Logia, Bathford]]></image:title>
+</image:image>
+<image:image>
+<image:loc>https://www.georgianbath.co.uk/media/posts/27/titan-barrow-drawing.png</image:loc>
+<image:title><![CDATA[]]></image:title>
+</image:image>
+<image:image>
+<image:loc>https://www.georgianbath.co.uk/media/posts/27/titanbarrow-logia-qr.png</image:loc>
+<image:title><![CDATA[]]></image:title>
 </image:image>
 </url>
 </urlset>
