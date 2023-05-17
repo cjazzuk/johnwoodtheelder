@@ -5,6 +5,14 @@
 <loc>https://www.georgianbath.co.uk/</loc>
 </url>
 <url>
+<loc>https://www.georgianbath.co.uk/about/</loc>
+<lastmod>2023-05-17T08:25:35+01:00</lastmod>
+<image:image>
+<image:loc>https://www.georgianbath.co.uk/media/posts/7/john-wood-the-elder.jpeg</image:loc>
+<image:title><![CDATA[John Wood the Elder]]></image:title>
+</image:image>
+</url>
+<url>
 <loc>https://www.georgianbath.co.uk/acton-castle-cornwall/</loc>
 <lastmod>2023-05-14T09:35:16+01:00</lastmod>
 <image:image>
@@ -475,10 +483,6 @@
 <url>
 <loc>https://www.georgianbath.co.uk/timeline/</loc>
 <lastmod>2023-05-09T15:29:30+01:00</lastmod>
-</url>
-<url>
-<loc>https://www.georgianbath.co.uk/timeline-3/</loc>
-<lastmod>2023-05-16T15:43:51+01:00</lastmod>
 </url>
 <url>
 <loc>https://www.georgianbath.co.uk/titanbarrow-logia-bathford/</loc>
