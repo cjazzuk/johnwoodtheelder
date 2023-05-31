@@ -2,16 +2,16 @@
     "version": "https://jsonfeed.org/version/1",
     "title": "John Wood the Elder (1704-1754)",
     "description": "",
-    "home_page_url": "https://www.georgianbath.co.uk",
-    "feed_url": "https://www.georgianbath.co.uk/feed.json",
+    "home_page_url": "https://www.johnwoodtheelder.co.uk",
+    "feed_url": "https://www.johnwoodtheelder.co.uk/feed.json",
     "user_comment": "",
     "author": {
         "name": "John Wood"
     },
     "items": [
         {
-            "id": "https://www.georgianbath.co.uk/privacy-policy/",
-            "url": "https://www.georgianbath.co.uk/privacy-policy/",
+            "id": "https://www.johnwoodtheelder.co.uk/privacy-policy/",
+            "url": "https://www.johnwoodtheelder.co.uk/privacy-policy/",
             "title": "Privacy Policy",
             "summary": "This privacy policy (\"policy\") will help you understand how johnwoodtheelder.co.uk (\"us\", \"we\", \"our\") uses and protects the data you provide&hellip;",
             "content_html": "<p class=\"\">This privacy policy (\"policy\") will help you understand how johnwoodtheelder.co.uk (\"us\", \"we\", \"our\") uses and protects the data you provide to us when you visit and use johnwoodtheelder.co.uk (\"website\", \"service\").</p>\n<p class=\"\">We reserve the right to change this policy at any given time, of which you will be promptly updated. If you want to make sure that you are up to date with the latest changes, we advise you to frequently visit this page.</p>\n<p class=\"\" data-rte-preserve-empty=\"true\"> </p>\n<p class=\"\"><strong>What User Data We Collect</strong></p>\n<p class=\"\">When you visit the website, we may collect the following data:</p>\n<ul data-rte-list=\"default\">\n<li>\n<p class=\"\">Your IP address.</p>\n</li>\n<li>\n<p class=\"\">Your contact information and email address.</p>\n</li>\n<li>\n<p class=\"\">Other information such as interests and preferences.</p>\n</li>\n<li>\n<p class=\"\">Data profile regarding your online behavior on our website.</p>\n</li>\n</ul>\n<p class=\"\" data-rte-preserve-empty=\"true\"> </p>\n<p class=\"\"><strong>Why We Collect Your Data</strong></p>\n<p class=\"\">We are collecting your data for several reasons:</p>\n<ul data-rte-list=\"default\">\n<li>\n<p class=\"\">To better understand your needs.</p>\n</li>\n<li>\n<p class=\"\">To improve our services and products.</p>\n</li>\n<li>\n<p class=\"\">To send you promotional emails containing the information we think you will find</p>\n<p class=\"\">interesting.</p>\n</li>\n<li>\n<p class=\"\">To contact you to fill out surveys and participate in other types of market research.</p>\n</li>\n<li>\n<p class=\"\">To customise our website according to your online behaviour and personal preferences.</p>\n<p class=\"\" data-rte-preserve-empty=\"true\"> </p>\n</li>\n</ul>\n<p class=\"\"><strong>Safeguarding and Securing the Data</strong></p>\n<p class=\"\">johnwoodtheelder.co.uk is committed to securing your data and keeping it confidential. johnwoodtheelder.co.uk has done all in its power to prevent data theft, unauthorised access, and disclosure by implementing the latest technologies and software, which help us safeguard all the information we collect online.</p>\n<p class=\"\" data-rte-preserve-empty=\"true\"> </p>\n<p class=\"\"><strong>Our Cookie Policy</strong></p>\n<p class=\"\">Once you agree to allow our website to use cookies, you also agree to use the data it collects regarding your online behavior (analyze web traffic, web pages you spend the most time on, and websites you visit).</p>\n<p class=\"\">The data we collect by using cookies is used to customize our website to your needs. After we use the data for statistical analysis, the data is completely removed from our systems.</p>\n<p class=\"\">Please note that cookies don't allow us to gain control of your computer in any way. They are strictly used to monitor which pages you find useful and which you do not so that we can provide a better experience for you.</p>\n<p class=\"\">If you want to disable cookies, you can do it by accessing the settings of your internet browser.</p>\n<p class=\"\" data-rte-preserve-empty=\"true\"> </p>\n<p class=\"\"><strong>Links to Other Websites</strong></p>\n<p class=\"\">Our website contains links that lead to other websites. If you click on these links johnwoodtheelder.co.uk is not held responsible for your data and privacy protection. Visiting those websites is not governed by this privacy policy agreement. Make sure to read the privacy policy documentation of the website you go to from our website.</p>\n<p class=\"\" data-rte-preserve-empty=\"true\"> </p>\n<p class=\"\"><strong>Restricting the Collection of your Personal Data</strong></p>\n<p class=\"\">At some point, you might wish to restrict the use and collection of your personal data. You can achieve this by doing the following:</p>\n<p class=\"\">When you are filling the forms on the website, make sure to check if there is a box which you can leave unchecked, if you don't want to disclose your personal information.</p>\n<p class=\"\">If you have already agreed to share your information with us, feel free to contact us via email and we will be more than happy to change this for you.</p>\n<p class=\"\">johnwoodtheelder.co.uk will not lease, sell or distribute your personal information to any third parties, unless we have your permission. We might do so if the law forces us. Your personal information will be used when we need to send you promotional materials if you agree to this privacy policy.</p>\n<p class=\"\">If you have any queries then please contact <a href=\"mailto:admin@johnwoodtheelder.co.uk?subject=Privacy%20Query\">admin@johnwoodtheelder.co.uk</a></p>",
@@ -24,11 +24,11 @@
             "date_modified": "2023-05-15T08:36:56+01:00"
         },
         {
-            "id": "https://www.georgianbath.co.uk/about/",
-            "url": "https://www.georgianbath.co.uk/about/",
+            "id": "https://www.johnwoodtheelder.co.uk/about/",
+            "url": "https://www.johnwoodtheelder.co.uk/about/",
             "title": "About",
             "summary": "John Wood the Elder John Wood the Elder This website is a celebration of the life and works of John&hellip;",
-            "content_html": "<h1 class=\"align-center\">John Wood the Elder</h1>\n<figure class=\"post__image\"><img loading=\"lazy\"  src=\"https://www.georgianbath.co.uk/media/posts/7/john-wood-the-elder.jpeg\" alt=\"John Wood the Elder\" width=\"200\" height=\"300\" align=\"right\" sizes=\"(max-width: 48em) 100vw, 100vw\" srcset=\"https://www.georgianbath.co.uk/media/posts/7/responsive/john-wood-the-elder-xs.jpeg 300w ,https://www.georgianbath.co.uk/media/posts/7/responsive/john-wood-the-elder-sm.jpeg 480w ,https://www.georgianbath.co.uk/media/posts/7/responsive/john-wood-the-elder-md.jpeg 768w\"><figcaption>John Wood the Elder</figcaption></figure>\n<h3>This website is a celebration of the life and works of John Wood the Elder (1704-1754) and his son John Wood the Younger (1728-1782).</h3>\n<p class=\"\">We will highlight the legacy that the Georgian Architects have left us in the Buildings in Bath and beyond. We will also explore their life and printed works.</p>\n<p class=\"\">Father &amp; Son are responsible for the way that the city of Bath looks today. Their buildings include Queen Square, The Circus, The Royal Crescent, North and South Parade etc. all in Bath. The Exchange in Bristol and also in Liverpool.</p>\n<p class=\"\">Each page dedicated to a building will be updated as and when we have more information or further photos… they will feature location maps to highlight where the buildings are or were. The updating of the pages of this website is an ongoing process and a not for profit labour of love.</p>\n<p class=\"\">If you have any information and photos to add to the website, then please use the <a href=\"https://www.johnwoodtheelder.co.uk/contact\">contact</a> link to contact us. We want this to be a complete resource for people to use and explore.</p>\n<p class=\"\">We endeavour to ensure that all content has a link to their source or provides the relevant credit on the site. If any information or photo has been used without seeking the appropriate permission; then please contact us and we will either remove the image or provide appropriate references.</p>",
+            "content_html": "<h1 class=\"align-center\">John Wood the Elder</h1>\n<figure class=\"post__image\"><img loading=\"lazy\"  src=\"https://www.johnwoodtheelder.co.uk/media/posts/7/john-wood-the-elder.jpeg\" alt=\"John Wood the Elder\" width=\"200\" height=\"300\" align=\"right\" sizes=\"(max-width: 48em) 100vw, 100vw\" srcset=\"https://www.johnwoodtheelder.co.uk/media/posts/7/responsive/john-wood-the-elder-xs.jpeg 300w ,https://www.johnwoodtheelder.co.uk/media/posts/7/responsive/john-wood-the-elder-sm.jpeg 480w ,https://www.johnwoodtheelder.co.uk/media/posts/7/responsive/john-wood-the-elder-md.jpeg 768w\"><figcaption>John Wood the Elder</figcaption></figure>\n<h3>This website is a celebration of the life and works of John Wood the Elder (1704-1754) and his son John Wood the Younger (1728-1782).</h3>\n<p class=\"\">We will highlight the legacy that the Georgian Architects have left us in the Buildings in Bath and beyond. We will also explore their life and printed works.</p>\n<p class=\"\">Father &amp; Son are responsible for the way that the city of Bath looks today. Their buildings include Queen Square, The Circus, The Royal Crescent, North and South Parade etc. all in Bath. The Exchange in Bristol and also in Liverpool.</p>\n<p class=\"\">Each page dedicated to a building will be updated as and when we have more information or further photos… they will feature location maps to highlight where the buildings are or were. The updating of the pages of this website is an ongoing process and a not for profit labour of love.</p>\n<p class=\"\">If you have any information and photos to add to the website, then please use the <a href=\"https://www.johnwoodtheelder.co.uk/contact\">contact</a> link to contact us. We want this to be a complete resource for people to use and explore.</p>\n<p class=\"\">We endeavour to ensure that all content has a link to their source or provides the relevant credit on the site. If any information or photo has been used without seeking the appropriate permission; then please contact us and we will either remove the image or provide appropriate references.</p>",
             "author": {
                 "name": "John Wood"
             },
@@ -38,8 +38,8 @@
             "date_modified": "2023-05-17T08:25:35+01:00"
         },
         {
-            "id": "https://www.georgianbath.co.uk/map/",
-            "url": "https://www.georgianbath.co.uk/map/",
+            "id": "https://www.johnwoodtheelder.co.uk/map/",
+            "url": "https://www.johnwoodtheelder.co.uk/map/",
             "title": "Map",
             "summary": "The map below shows the locations of Buildings designed by John Wood the Elder or his son John Wood the&hellip;",
             "content_html": "<p>The map below shows the locations of Buildings designed by John Wood the Elder or his son John Wood the Younger and other key locations.</p>\n<div class=\"post__iframe\"><iframe loading=\"lazy\" width=\"600\" height=\"450\" allow=\"autoplay; fullscreen\" scrolling=\"no\" data-image-dimensions=\"600x450\" allowfullscreen=\"allowfullscreen\" src=\"https://cdn.embedly.com/widgets/media.html?src=https%3A%2F%2Fwww.google.com%2Fmaps%2Fd%2Fembed%3Fmid%3D1UDAPIBKR7LnkrN6Uz9DWq8hmmQw%26hl%3Den&amp;display_name=Google+Maps&amp;url=https%3A%2F%2Fwww.google.com%2Fmaps%2Fd%2Fviewer%3Fmid%3D1UDAPIBKR7LnkrN6Uz9DWq8hmmQw%26hl%3Den&amp;image=https%3A%2F%2Fwww.google.com%2Fmaps%2Fd%2Fthumbnail%3Fmid%3D1UDAPIBKR7LnkrN6Uz9DWq8hmmQw%26hl%3Den&amp;key=61d05c9d54e8455ea7a9677c366be814&amp;type=text%2Fhtml&amp;schema=google&amp;wmode=opaque\" data-embed=\"true\" frameborder=\"0\" title=\"Google Maps embed\" class=\"embedly-embed\"></iframe></div>",
@@ -52,8 +52,8 @@
             "date_modified": "2023-05-09T15:29:18+01:00"
         },
         {
-            "id": "https://www.georgianbath.co.uk/timeline/",
-            "url": "https://www.georgianbath.co.uk/timeline/",
+            "id": "https://www.johnwoodtheelder.co.uk/timeline/",
+            "url": "https://www.johnwoodtheelder.co.uk/timeline/",
             "title": "Timeline",
             "summary": "The timeline below shows chronologically the buildings of John Wood the Elder and John Wood the Younger.",
             "content_html": "<p>The timeline below shows chronologically the buildings of John Wood the Elder and John Wood the Younger.</p>\n<div class=\"post__iframe\"><iframe loading=\"lazy\" width=\"800\" height=\"700\" mozallowfullscreen=\"mozallowfullscreen\" allowfullscreen=\"allowfullscreen\" src=\"https://cdn.knightlab.com/libs/timeline3/latest/embed/index.html?source=1kNUzy9F5yX29MZM-5JabKhMOt_TgfjMrzN1A1JOhUGg&amp;font=Default&amp;lang=en&amp;initial_zoom=2&amp;wmode=opaque\" data-embed=\"true\" webkitallowfullscreen=\"webkitallowfullscreen\" frameborder=\"0\"></iframe></div>",
@@ -66,12 +66,12 @@
             "date_modified": "2023-05-09T15:29:30+01:00"
         },
         {
-            "id": "https://www.georgianbath.co.uk/ground-radar-john-woods-ledger-stone/",
-            "url": "https://www.georgianbath.co.uk/ground-radar-john-woods-ledger-stone/",
+            "id": "https://www.johnwoodtheelder.co.uk/ground-radar-john-woods-ledger-stone/",
+            "url": "https://www.johnwoodtheelder.co.uk/ground-radar-john-woods-ledger-stone/",
             "title": "Ground Radar John Wood’s Ledger Stone",
             "summary": "14th November 2022 Last week Bristol University visited St Mary’s Church at Upper Swainswick, the final resting place of John&hellip;",
-            "content_html": "<pre>14th November 2022</pre>\n<p class=\"\">Last week Bristol University visited St Mary’s Church at Upper Swainswick, the final resting place of John Wood the Elder and his family members.</p>\n<p class=\"\">They carried out ground radar analysis above the ledger stones of John Wood the Elder and one of his daughters to try and find out whether there is a family vault below and whether their are more people interred beneath.</p>\n<p class=\"\">Read more at <a href=\"https://bathnewseum.com/2022/11/10/putting-the-woods-under-our-radar/\">bathnewseum.</a><a href=\"https://bathnewseum.com/2022/11/10/putting-the-woods-under-our-radar/\" target=\"_blank\" rel=\"noopener\">com</a></p>\n<figure class=\"post__image\"><img loading=\"lazy\"  src=\"https://www.georgianbath.co.uk/media/posts/22/bathnewseum.png\" alt=\"bathnewseum.com\" width=\"1000\" height=\"701\" sizes=\"(max-width: 48em) 100vw, 100vw\" srcset=\"https://www.georgianbath.co.uk/media/posts/22/responsive/bathnewseum-xs.png 300w ,https://www.georgianbath.co.uk/media/posts/22/responsive/bathnewseum-sm.png 480w ,https://www.georgianbath.co.uk/media/posts/22/responsive/bathnewseum-md.png 768w\"></figure>",
-            "image": "https://www.georgianbath.co.uk/media/posts/22/John-Wood-the-Elder-grave.jpeg",
+            "content_html": "<pre>14th November 2022</pre>\n<p class=\"\">Last week Bristol University visited St Mary’s Church at Upper Swainswick, the final resting place of John Wood the Elder and his family members.</p>\n<p class=\"\">They carried out ground radar analysis above the ledger stones of John Wood the Elder and one of his daughters to try and find out whether there is a family vault below and whether their are more people interred beneath.</p>\n<p class=\"\">Read more at <a href=\"https://bathnewseum.com/2022/11/10/putting-the-woods-under-our-radar/\">bathnewseum.</a><a href=\"https://bathnewseum.com/2022/11/10/putting-the-woods-under-our-radar/\" target=\"_blank\" rel=\"noopener\">com</a></p>\n<figure class=\"post__image\"><img loading=\"lazy\"  src=\"https://www.johnwoodtheelder.co.uk/media/posts/22/bathnewseum.png\" alt=\"bathnewseum.com\" width=\"1000\" height=\"701\" sizes=\"(max-width: 48em) 100vw, 100vw\" srcset=\"https://www.johnwoodtheelder.co.uk/media/posts/22/responsive/bathnewseum-xs.png 300w ,https://www.johnwoodtheelder.co.uk/media/posts/22/responsive/bathnewseum-sm.png 480w ,https://www.johnwoodtheelder.co.uk/media/posts/22/responsive/bathnewseum-md.png 768w\"></figure>",
+            "image": "https://www.johnwoodtheelder.co.uk/media/posts/22/John-Wood-the-Elder-grave.jpeg",
             "author": {
                 "name": "John Wood"
             },
@@ -82,12 +82,12 @@
             "date_modified": "2023-05-14T09:37:30+01:00"
         },
         {
-            "id": "https://www.georgianbath.co.uk/review-of-architect-of-obsession-bath-life-magazine/",
-            "url": "https://www.georgianbath.co.uk/review-of-architect-of-obsession-bath-life-magazine/",
+            "id": "https://www.johnwoodtheelder.co.uk/review-of-architect-of-obsession-bath-life-magazine/",
+            "url": "https://www.johnwoodtheelder.co.uk/review-of-architect-of-obsession-bath-life-magazine/",
             "title": "Review of ‘Architect of Obsession’ - Bath Life Magazine",
             "summary": "12th August 2022 The latest issue of Bath Life magazine has a review of ‘Architect of Obsession’ book. Read the&hellip;",
             "content_html": "<pre>12th August 2022</pre>\n<p class=\"\" data-pm-slice=\"1 1 []\">The latest issue of Bath Life magazine has a review of ‘Architect of Obsession’ book. Read the article from Page 38 below.</p>\n<div class=\"post__iframe\"><iframe loading=\"lazy\" width=\"525\" height=\"340\" class=\"embedly-embed\" src=\"//cdn.embedly.com/widgets/media.html?src=%2F%2Fe.issuu.com%2Fembed.html%230%2F93053686&amp;display_name=Issuu&amp;url=https%3A%2F%2Fissuu.com%2Fmediaclash%2Fdocs%2Fbl476_final%2F38&amp;image=https%3A%2F%2Fimage.issuu.com%2F220812081251-9cd9614e48bff5f3f71af2fbbb6fee1d%2Fjpg%2Fpage_38_thumb_medium.jpg&amp;key=61d05c9d54e8455ea7a9677c366be814&amp;type=text%2Fhtml&amp;schema=issuu\" scrolling=\"no\" title=\"Issuu embed\" frameborder=\"0\" allow=\"autoplay; fullscreen\" allowfullscreen=\"allowfullscreen\"></iframe></div>",
-            "image": "https://www.georgianbath.co.uk/media/posts/21/Bath-Life-Magazine.png",
+            "image": "https://www.johnwoodtheelder.co.uk/media/posts/21/Bath-Life-Magazine.png",
             "author": {
                 "name": "John Wood"
             },
@@ -98,12 +98,12 @@
             "date_modified": "2023-05-12T13:13:21+01:00"
         },
         {
-            "id": "https://www.georgianbath.co.uk/conveyance-for-14-the-circus-bath/",
-            "url": "https://www.georgianbath.co.uk/conveyance-for-14-the-circus-bath/",
+            "id": "https://www.johnwoodtheelder.co.uk/conveyance-for-14-the-circus-bath/",
+            "url": "https://www.johnwoodtheelder.co.uk/conveyance-for-14-the-circus-bath/",
             "title": "Conveyance for 14 The Circus, Bath",
             "summary": "20th July 2022 Ancestor Homes has a very interesting article on House History: An in depth look at the 1764&hellip;",
             "content_html": "<pre>20th July 2022</pre>\n<p class=\"\">Ancestor Homes has a very interesting article on <a href=\"https://www.ancestorhomes.com/news/house-history-an-in-depth-look-at-the-1764-conveyance-for-14-the-circus-bath/\" target=\"_blank\" rel=\"noopener\"><strong>House History: An in depth look at the 1764 Conveyance for 14 The Circus, Bath</strong></a><strong>.</strong></p>\n<p class=\"\" data-rte-preserve-empty=\"true\"> </p>\n<p class=\"\">It provides an insight into how John Wood the Elder acquired the land The Circus is built on:</p>\n<blockquote>\n<p class=\"\">The Conveyance then describes how John Wood acquired the land in the first place. Wood had purchased the land off <em>‘Thomas Garrard late of the Inner Temple London Esquire/since deceased/and Margaret his wife’</em> along with Samuel Purlewent, also a Gentleman of Bath, who had died by the time of the Conveyance. The parties had signed a deed dated 1 November 1754 for nine acres of land at a yearly rent of £163 (approximately £20,000 in today’s money).</p>\n</blockquote>\n<p class=\"\">It goes on to also ensure that the exterior of the buildings that form the The Circus, Bath are to be uniform and adhere to the design:</p>\n<blockquote>\n<p class=\"\">The Conveyance then goes on to ensure the outside of all premises on the Circus is uniform. No chimneys could be altered without the consent of John Wood and stonework was to be cleansed and tombed so no cracks appeared. The deed also contains a clause about the colour of the woodwork; <em>‘the whole building may be of one colour and also shall and will paint all of the woodwork in the outside of the said messuage and also the outside street door with a quite white colour’.</em></p>\n</blockquote>",
-            "image": "https://www.georgianbath.co.uk/media/posts/20/14-The-Circus.jpeg",
+            "image": "https://www.johnwoodtheelder.co.uk/media/posts/20/14-The-Circus.jpeg",
             "author": {
                 "name": "John Wood"
             },
@@ -114,12 +114,12 @@
             "date_modified": "2023-05-12T13:09:10+01:00"
         },
         {
-            "id": "https://www.georgianbath.co.uk/national-trust-georgian-experience-bath-assembly-rooms/",
-            "url": "https://www.georgianbath.co.uk/national-trust-georgian-experience-bath-assembly-rooms/",
+            "id": "https://www.johnwoodtheelder.co.uk/national-trust-georgian-experience-bath-assembly-rooms/",
+            "url": "https://www.johnwoodtheelder.co.uk/national-trust-georgian-experience-bath-assembly-rooms/",
             "title": "National Trust - ‘Georgian Experience’ Bath Assembly Rooms",
             "summary": "3th July 2022 March 2023 sees the National Trust taking over the Bath Assembly Rooms. They have owned them since&hellip;",
             "content_html": "<pre>3th July 2022</pre>\n<p class=\"\">March 2023 sees the National Trust taking over the Bath Assembly Rooms. They have owned them since 1931 but have leased it to the North East Somerset Council who have housed the Fashion Museum there.</p>\n<p class=\"\"><a href=\"https://www.nationaltrust.org.uk/bath-assembly-rooms/features/future-plans-for-bath-assembly-rooms\" target=\"_blank\" rel=\"noopener\">See the update from The National Trust and their plan for Bath Assembly Rooms.</a></p>\n<p class=\"\">The Bath Assembly Rooms were designed by John Wood the Younger 1769-1771</p>",
-            "image": "https://www.georgianbath.co.uk/media/posts/19/Bath-Assembly-Rooms.jpeg",
+            "image": "https://www.johnwoodtheelder.co.uk/media/posts/19/Bath-Assembly-Rooms.jpeg",
             "author": {
                 "name": "John Wood"
             },
@@ -130,12 +130,12 @@
             "date_modified": "2023-05-27T06:50:40+01:00"
         },
         {
-            "id": "https://www.georgianbath.co.uk/architect-of-obsession/",
-            "url": "https://www.georgianbath.co.uk/architect-of-obsession/",
+            "id": "https://www.johnwoodtheelder.co.uk/architect-of-obsession/",
+            "url": "https://www.johnwoodtheelder.co.uk/architect-of-obsession/",
             "title": "Architect of Obsession",
             "summary": "2nd May 2022 May 2022 will see the newly illustrated and revised edition of ‘Architect of Obsession : John Wood&hellip;",
-            "content_html": "<pre>2nd May 2022</pre>\n<p class=\"\">May 2022 will see the newly illustrated and revised edition of ‘Architect of Obsession : John Wood and the Creation Bath’ by Timothy Mowl &amp; Brian Earnshaw with Cathryn Spence. For anyone interested in more details on the life and history of John Wood this is a must have.</p>\n<p class=\"\">My copy of the original is well worn and I cannot wait for the new edition. Its 304 pages have been beautifully updated with new photos and colour illustrations.</p>\n<p class=\"\">Order direct £35 from <a href=\"mailto:johnwood1754@gmail.com?subject=Book%20Order%3A%20Architect%20of%20Obsession%20-%20johnwoodtheelder.co.uk%20referrer...\">johnwood1754@gmail.com</a></p>\n<p id=\"yui_3_17_2_1_1683875002417_447\" class=\"\">Promotional Flyer:</p>\n<figure class=\"post__image\"><img loading=\"lazy\"  src=\"https://www.georgianbath.co.uk/media/posts/18/Architect-of-Obsession.pdf\" alt=\"Architect of Obsession\"></figure>\n<p class=\"\">ISBN 9781838472689</p>",
-            "image": "https://www.georgianbath.co.uk/media/posts/18/Architect-of-Obsession.jpeg",
+            "content_html": "<pre>2nd May 2022</pre>\n<p class=\"\">May 2022 will see the newly illustrated and revised edition of ‘Architect of Obsession : John Wood and the Creation Bath’ by Timothy Mowl &amp; Brian Earnshaw with Cathryn Spence. For anyone interested in more details on the life and history of John Wood this is a must have.</p>\n<p class=\"\">My copy of the original is well worn and I cannot wait for the new edition. Its 304 pages have been beautifully updated with new photos and colour illustrations.</p>\n<p class=\"\">Order direct £35 from <a href=\"mailto:johnwood1754@gmail.com?subject=Book%20Order%3A%20Architect%20of%20Obsession%20-%20johnwoodtheelder.co.uk%20referrer...\">johnwood1754@gmail.com</a></p>\n<p id=\"yui_3_17_2_1_1683875002417_447\" class=\"\">Promotional Flyer:</p>\n<figure class=\"post__image\"><img loading=\"lazy\"  src=\"https://www.johnwoodtheelder.co.uk/media/posts/18/Architect-of-Obsession.pdf\" alt=\"Architect of Obsession\"></figure>\n<p class=\"\">ISBN 9781838472689</p>",
+            "image": "https://www.johnwoodtheelder.co.uk/media/posts/18/Architect-of-Obsession.jpeg",
             "author": {
                 "name": "John Wood"
             },
@@ -146,12 +146,12 @@
             "date_modified": "2023-05-14T09:38:00+01:00"
         },
         {
-            "id": "https://www.georgianbath.co.uk/john-wood-the-elders-graves-restored/",
-            "url": "https://www.georgianbath.co.uk/john-wood-the-elders-graves-restored/",
+            "id": "https://www.johnwoodtheelder.co.uk/john-wood-the-elders-graves-restored/",
+            "url": "https://www.johnwoodtheelder.co.uk/john-wood-the-elders-graves-restored/",
             "title": "John Wood the Elder’s Graves Restored",
             "summary": "2nd March 2022 Just under 3 miles North East from the centre of Bath is Upper Swainswick. Here at St&hellip;",
-            "content_html": "<pre>2nd March 2022</pre>\n<p class=\"\">Just under 3 miles North East from the centre of Bath is Upper Swainswick. Here at St Marys’s Church is the resting place of John Wood the Elder, his son and other family members. Across the valley is the wonderful <a href=\"https://www.georgianbath.co.uk/buckland-house-faringdon-2/\">All Saints Church, Woolley</a> designed by John Wood the Younger.</p>\n<p class=\"\">The memorial slabs are being restored to bring back the wonderful lettering. A very minimal monument to the Georgian Architect who gave Bath the identity it has today.</p>\n<figure class=\"post__image\"><img loading=\"lazy\"  src=\"https://www.georgianbath.co.uk/media/posts/17/st-mary-upper-swainswick.jpeg\" alt=\"St Mary Upper Swainswick\" width=\"980\" height=\"653\" sizes=\"(max-width: 48em) 100vw, 100vw\" srcset=\"https://www.georgianbath.co.uk/media/posts/17/responsive/st-mary-upper-swainswick-xs.jpeg 300w ,https://www.georgianbath.co.uk/media/posts/17/responsive/st-mary-upper-swainswick-sm.jpeg 480w ,https://www.georgianbath.co.uk/media/posts/17/responsive/st-mary-upper-swainswick-md.jpeg 768w\"><figcaption>St Mary Upper Swainswick</figcaption></figure>\n<p class=\"\">Read more about it here:</p>\n<ul data-rte-list=\"default\">\n<li>\n<p class=\"\"><a href=\"https://link.johnwoodtheelder.co.uk/BNew1\" target=\"_blank\" rel=\"noopener\">bathnewseum.com</a></p>\n</li>\n<li>\n<p class=\"\"><a href=\"https://link.johnwoodtheelder.co.uk/BMag322\" target=\"_blank\" rel=\"noopener\">Bath Magazine</a></p>\n</li>\n</ul>\n<div class=\"post__iframe\"><iframe width=\"600\" height=\"450\" style=\"border: 0;\" src=\"https://www.google.com/maps/embed?pb=!1m17!1m12!1m3!1d2488.3850981989226!2d-2.3528780215289706!3d51.41435219068699!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m2!1m1!2zNTHCsDI0JzUxLjEiTiAywrAyMScwNS40Ilc!5e0!3m2!1sen!2suk!4v1683874851728!5m2!1sen!2suk\" allowfullscreen=\"allowfullscreen\" loading=\"lazy\" referrerpolicy=\"no-referrer-when-downgrade\"></iframe></div>",
-            "image": "https://www.georgianbath.co.uk/media/posts/17/John-Wood-the-Elder-grave-2.jpeg",
+            "content_html": "<pre>2nd March 2022</pre>\n<p class=\"\">Just under 3 miles North East from the centre of Bath is Upper Swainswick. Here at St Marys’s Church is the resting place of John Wood the Elder, his son and other family members. Across the valley is the wonderful <a href=\"https://www.johnwoodtheelder.co.uk/buckland-house-faringdon-2/\">All Saints Church, Woolley</a> designed by John Wood the Younger.</p>\n<p class=\"\">The memorial slabs are being restored to bring back the wonderful lettering. A very minimal monument to the Georgian Architect who gave Bath the identity it has today.</p>\n<figure class=\"post__image\"><img loading=\"lazy\"  src=\"https://www.johnwoodtheelder.co.uk/media/posts/17/st-mary-upper-swainswick.jpeg\" alt=\"St Mary Upper Swainswick\" width=\"980\" height=\"653\" sizes=\"(max-width: 48em) 100vw, 100vw\" srcset=\"https://www.johnwoodtheelder.co.uk/media/posts/17/responsive/st-mary-upper-swainswick-xs.jpeg 300w ,https://www.johnwoodtheelder.co.uk/media/posts/17/responsive/st-mary-upper-swainswick-sm.jpeg 480w ,https://www.johnwoodtheelder.co.uk/media/posts/17/responsive/st-mary-upper-swainswick-md.jpeg 768w\"><figcaption>St Mary Upper Swainswick</figcaption></figure>\n<p class=\"\">Read more about it here:</p>\n<ul data-rte-list=\"default\">\n<li>\n<p class=\"\"><a href=\"https://link.johnwoodtheelder.co.uk/BNew1\" target=\"_blank\" rel=\"noopener\">bathnewseum.com</a></p>\n</li>\n<li>\n<p class=\"\"><a href=\"https://link.johnwoodtheelder.co.uk/BMag322\" target=\"_blank\" rel=\"noopener\">Bath Magazine</a></p>\n</li>\n</ul>\n<div class=\"post__iframe\"><iframe width=\"600\" height=\"450\" style=\"border: 0;\" src=\"https://www.google.com/maps/embed?pb=!1m17!1m12!1m3!1d2488.3850981989226!2d-2.3528780215289706!3d51.41435219068699!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m2!1m1!2zNTHCsDI0JzUxLjEiTiAywrAyMScwNS40Ilc!5e0!3m2!1sen!2suk!4v1683874851728!5m2!1sen!2suk\" allowfullscreen=\"allowfullscreen\" loading=\"lazy\" referrerpolicy=\"no-referrer-when-downgrade\"></iframe></div>",
+            "image": "https://www.johnwoodtheelder.co.uk/media/posts/17/John-Wood-the-Elder-grave-2.jpeg",
             "author": {
                 "name": "John Wood"
             },

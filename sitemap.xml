@@ -1,586 +1,598 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<?xml-stylesheet type="text/xsl" href="https://www.georgianbath.co.uk/sitemap.xsl"?>
+<?xml-stylesheet type="text/xsl" href="https://www.johnwoodtheelder.co.uk/sitemap.xsl"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.sitemaps.org/schemas/sitemap/0.9 http://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd" xmlns:image="http://www.google.com/schemas/sitemap-image/1.1">
 <url>
-<loc>https://www.georgianbath.co.uk/</loc>
+<loc>https://www.johnwoodtheelder.co.uk/</loc>
 </url>
 <url>
-<loc>https://www.georgianbath.co.uk/about/</loc>
+<loc>https://www.johnwoodtheelder.co.uk/about/</loc>
 <lastmod>2023-05-17T08:25:35+01:00</lastmod>
 <image:image>
-<image:loc>https://www.georgianbath.co.uk/media/posts/7/john-wood-the-elder.jpeg</image:loc>
+<image:loc>https://www.johnwoodtheelder.co.uk/media/posts/7/john-wood-the-elder.jpeg</image:loc>
 <image:title><![CDATA[John Wood the Elder]]></image:title>
 </image:image>
 </url>
 <url>
-<loc>https://www.georgianbath.co.uk/acton-castle-cornwall/</loc>
+<loc>https://www.johnwoodtheelder.co.uk/acton-castle-cornwall/</loc>
 <lastmod>2023-05-14T09:35:16+01:00</lastmod>
 <image:image>
-<image:loc>https://www.georgianbath.co.uk/media/posts/15/acton-castle-cornwall.jpeg</image:loc>
+<image:loc>https://www.johnwoodtheelder.co.uk/media/posts/15/acton-castle-cornwall.jpeg</image:loc>
 <image:title><![CDATA[Acton Castle, Cornwall]]></image:title>
 </image:image>
 <image:image>
-<image:loc>https://www.georgianbath.co.uk/media/posts/15/acton-castle-cornwall-qr.png</image:loc>
+<image:loc>https://www.johnwoodtheelder.co.uk/media/posts/15/acton-castle-cornwall-qr.png</image:loc>
 <image:title><![CDATA[Acton Castle, Cornwall QR]]></image:title>
 </image:image>
 </url>
 <url>
-<loc>https://www.georgianbath.co.uk/alfred-street-bath/</loc>
+<loc>https://www.johnwoodtheelder.co.uk/alfred-street-bath/</loc>
 <lastmod>2023-05-14T09:34:49+01:00</lastmod>
 <image:image>
-<image:loc>https://www.georgianbath.co.uk/media/posts/13/alfred-street-bath.jpeg</image:loc>
+<image:loc>https://www.johnwoodtheelder.co.uk/media/posts/13/alfred-street-bath.jpeg</image:loc>
 <image:title><![CDATA[Alfred Street, Bath]]></image:title>
 </image:image>
 <image:image>
-<image:loc>https://www.georgianbath.co.uk/media/posts/13/alfred-street-bath-qr.png</image:loc>
+<image:loc>https://www.johnwoodtheelder.co.uk/media/posts/13/alfred-street-bath-qr.png</image:loc>
 <image:title><![CDATA[Alfred Street, Bath QR]]></image:title>
 </image:image>
 </url>
 <url>
-<loc>https://www.georgianbath.co.uk/architect-of-obsession/</loc>
+<loc>https://www.johnwoodtheelder.co.uk/architect-of-obsession/</loc>
 <lastmod>2023-05-14T09:38:00+01:00</lastmod>
 <image:image>
-<image:loc>https://www.georgianbath.co.uk/media/posts/18/Architect-of-Obsession.jpeg</image:loc>
+<image:loc>https://www.johnwoodtheelder.co.uk/media/posts/18/Architect-of-Obsession.jpeg</image:loc>
 <image:title><![CDATA[Architect of Obsession : John Wood and the Creation of Bath]]></image:title>
 </image:image>
 <image:image>
-<image:loc>https://www.georgianbath.co.uk/media/posts/18/Architect-of-Obsession.pdf</image:loc>
+<image:loc>https://www.johnwoodtheelder.co.uk/media/posts/18/Architect-of-Obsession.pdf</image:loc>
 <image:title><![CDATA[Architect of Obsession]]></image:title>
 </image:image>
 </url>
 <url>
-<loc>https://www.georgianbath.co.uk/bathford-spaw/</loc>
+<loc>https://www.johnwoodtheelder.co.uk/bathford-spaw/</loc>
 <lastmod>2023-05-27T06:54:34+01:00</lastmod>
 <image:image>
-<image:loc>https://www.georgianbath.co.uk/media/posts/28/bathford-spaw.png</image:loc>
+<image:loc>https://www.johnwoodtheelder.co.uk/media/posts/28/bathford-spaw.png</image:loc>
 <image:title><![CDATA[Bathford Spaw]]></image:title>
 </image:image>
 <image:image>
-<image:loc>https://www.georgianbath.co.uk/media/posts/28/bathford-spaw-qr.png</image:loc>
+<image:loc>https://www.johnwoodtheelder.co.uk/media/posts/28/bathford-spaw-qr.png</image:loc>
 <image:title><![CDATA[Bathford Spaw QR]]></image:title>
 </image:image>
 </url>
 <url>
-<loc>https://www.georgianbath.co.uk/belcomb-brook-bradford-upon-avon/</loc>
+<loc>https://www.johnwoodtheelder.co.uk/belcomb-brook-bradford-upon-avon/</loc>
 <lastmod>2023-05-14T09:32:18+01:00</lastmod>
 <image:image>
-<image:loc>https://www.georgianbath.co.uk/media/posts/8/belcomb-brook.png</image:loc>
+<image:loc>https://www.johnwoodtheelder.co.uk/media/posts/8/belcomb-brook.png</image:loc>
 <image:title><![CDATA[Belcomb Brook, Bradford Upon Avon]]></image:title>
 </image:image>
 <image:image>
-<image:loc>https://www.georgianbath.co.uk/media/posts/8/belcombe-brook-qr.png</image:loc>
+<image:loc>https://www.johnwoodtheelder.co.uk/media/posts/8/belcombe-brook-qr.png</image:loc>
 <image:title><![CDATA[Belcomb Brook QR]]></image:title>
 </image:image>
 <image:image>
-<image:loc>https://www.georgianbath.co.uk/media/posts/8/belcomb-brook-drawing.png</image:loc>
+<image:loc>https://www.johnwoodtheelder.co.uk/media/posts/8/belcomb-brook-drawing.png</image:loc>
 <image:title><![CDATA[From John Wood the Elder’s ‘A Description of Bath’]]></image:title>
 </image:image>
 </url>
 <url>
-<loc>https://www.georgianbath.co.uk/bennett-street-bath/</loc>
+<loc>https://www.johnwoodtheelder.co.uk/bennett-street-bath/</loc>
 <lastmod>2023-05-14T09:35:03+01:00</lastmod>
 <image:image>
-<image:loc>https://www.georgianbath.co.uk/media/posts/14/bennett-street-bath.jpeg</image:loc>
+<image:loc>https://www.johnwoodtheelder.co.uk/media/posts/14/bennett-street-bath.jpeg</image:loc>
 <image:title><![CDATA[Bennett Street, Bath]]></image:title>
 </image:image>
 <image:image>
-<image:loc>https://www.georgianbath.co.uk/media/posts/14/bennett-street-bath-qr.png</image:loc>
+<image:loc>https://www.johnwoodtheelder.co.uk/media/posts/14/bennett-street-bath-qr.png</image:loc>
 <image:title><![CDATA[Bennett Street, Bath QR]]></image:title>
 </image:image>
 </url>
 <url>
-<loc>https://www.georgianbath.co.uk/brock-street-bath/</loc>
+<loc>https://www.johnwoodtheelder.co.uk/brock-street-bath/</loc>
 <lastmod>2023-05-21T07:34:53+01:00</lastmod>
 <image:image>
-<image:loc>https://www.georgianbath.co.uk/media/posts/12/brock-street-bath.jpeg</image:loc>
+<image:loc>https://www.johnwoodtheelder.co.uk/media/posts/12/brock-street-bath.jpeg</image:loc>
 <image:title><![CDATA[Brock Street, Bath]]></image:title>
 </image:image>
 <image:image>
-<image:loc>https://www.georgianbath.co.uk/media/posts/12/brock-street-bath-qr.png</image:loc>
+<image:loc>https://www.johnwoodtheelder.co.uk/media/posts/12/brock-street-bath-qr.png</image:loc>
 <image:title><![CDATA[Brock Street, Bath]]></image:title>
 </image:image>
 </url>
 <url>
-<loc>https://www.georgianbath.co.uk/buckland-house-faringdon/</loc>
+<loc>https://www.johnwoodtheelder.co.uk/buckland-house-faringdon/</loc>
 <lastmod>2023-05-14T09:34:11+01:00</lastmod>
 <image:image>
-<image:loc>https://www.georgianbath.co.uk/media/posts/10/buckland-house-oxfordshire.jpeg</image:loc>
+<image:loc>https://www.johnwoodtheelder.co.uk/media/posts/10/buckland-house-oxfordshire.jpeg</image:loc>
 <image:title><![CDATA[Buckland House, Faringdon]]></image:title>
 </image:image>
 <image:image>
-<image:loc>https://www.georgianbath.co.uk/media/posts/10/buckland-house-oxfordshire-qr.png</image:loc>
+<image:loc>https://www.johnwoodtheelder.co.uk/media/posts/10/buckland-house-oxfordshire-qr.png</image:loc>
 <image:title><![CDATA[Buckland House, Faringdon QR]]></image:title>
 </image:image>
 </url>
 <url>
-<loc>https://www.georgianbath.co.uk/buckland-house-faringdon-2/</loc>
+<loc>https://www.johnwoodtheelder.co.uk/buckland-house-faringdon-2/</loc>
 <lastmod>2023-05-14T09:34:25+01:00</lastmod>
 <image:image>
-<image:loc>https://www.georgianbath.co.uk/media/posts/11/all-saints-church-woolley.jpg</image:loc>
+<image:loc>https://www.johnwoodtheelder.co.uk/media/posts/11/all-saints-church-woolley.jpg</image:loc>
 <image:title><![CDATA[All Saints Church, Woolley]]></image:title>
 </image:image>
 <image:image>
-<image:loc>https://www.georgianbath.co.uk/media/posts/11/woolley-map.png</image:loc>
+<image:loc>https://www.johnwoodtheelder.co.uk/media/posts/11/woolley-map.png</image:loc>
 <image:title><![CDATA[Woolley Map - Thorpe 1743]]></image:title>
 </image:image>
 <image:image>
-<image:loc>https://www.georgianbath.co.uk/media/posts/11/all-saints-church-woolley-qr.png</image:loc>
+<image:loc>https://www.johnwoodtheelder.co.uk/media/posts/11/all-saints-church-woolley-qr.png</image:loc>
 <image:title><![CDATA[All Saints Church, Woolley QR]]></image:title>
 </image:image>
 </url>
 <url>
-<loc>https://www.georgianbath.co.uk/catharine-place-bath-2/</loc>
+<loc>https://www.johnwoodtheelder.co.uk/catharine-place-bath-2/</loc>
 <lastmod>2023-05-14T09:35:32+01:00</lastmod>
 <image:image>
-<image:loc>https://www.georgianbath.co.uk/media/posts/6/catharine-place-bath.jpeg</image:loc>
+<image:loc>https://www.johnwoodtheelder.co.uk/media/posts/6/catharine-place-bath.jpeg</image:loc>
 <image:title><![CDATA[Catharine Place, Bath]]></image:title>
 </image:image>
 <image:image>
-<image:loc>https://www.georgianbath.co.uk/media/posts/6/catharineplacebath-qr.png</image:loc>
+<image:loc>https://www.johnwoodtheelder.co.uk/media/posts/6/catharineplacebath-qr.png</image:loc>
 <image:title><![CDATA[Catharine Place, Bath QR]]></image:title>
 </image:image>
 </url>
 <url>
-<loc>https://www.georgianbath.co.uk/church-of-st-mary-tyberton-2/</loc>
+<loc>https://www.johnwoodtheelder.co.uk/church-of-st-mary-tyberton-2/</loc>
 <lastmod>2023-05-16T15:14:38+01:00</lastmod>
 <image:image>
-<image:loc>https://www.georgianbath.co.uk/media/posts/3/church-of-st-mary-tyberton-2.jpeg</image:loc>
+<image:loc>https://www.johnwoodtheelder.co.uk/media/posts/3/church-of-st-mary-tyberton-2.jpeg</image:loc>
 <image:title><![CDATA[Church of St Mary, Tyberton]]></image:title>
 </image:image>
 <image:image>
-<image:loc>https://www.georgianbath.co.uk/media/posts/3/church-of-st-mary-tyberton-qr-2.png</image:loc>
+<image:loc>https://www.johnwoodtheelder.co.uk/media/posts/3/church-of-st-mary-tyberton-qr-2.png</image:loc>
 <image:title><![CDATA[Church of St Mary, Tyberton QR]]></image:title>
 </image:image>
 </url>
 <url>
-<loc>https://www.georgianbath.co.uk/church-of-st-mary-tyberton-3/</loc>
+<loc>https://www.johnwoodtheelder.co.uk/church-of-st-mary-tyberton-3/</loc>
 <lastmod>2023-05-14T09:32:41+01:00</lastmod>
 <image:image>
-<image:loc>https://www.georgianbath.co.uk/media/posts/9/a-plan-of-the-city-of-bath.jpeg</image:loc>
+<image:loc>https://www.johnwoodtheelder.co.uk/media/posts/9/a-plan-of-the-city-of-bath.jpeg</image:loc>
 <image:title><![CDATA[A Plan of the City of Bath]]></image:title>
 </image:image>
 </url>
 <url>
-<loc>https://www.georgianbath.co.uk/church-of-st-nicholas-hardenhuish-chippenham/</loc>
+<loc>https://www.johnwoodtheelder.co.uk/church-of-st-nicholas-hardenhuish-chippenham/</loc>
 <lastmod>2023-05-14T09:35:46+01:00</lastmod>
 <image:image>
-<image:loc>https://www.georgianbath.co.uk/media/posts/24/st-nicholas-church-hardenhuish.png</image:loc>
+<image:loc>https://www.johnwoodtheelder.co.uk/media/posts/24/st-nicholas-church-hardenhuish.png</image:loc>
 <image:title><![CDATA[Church of St. Nicholas, Hardenhuish, Chippenham]]></image:title>
 </image:image>
 <image:image>
-<image:loc>https://www.georgianbath.co.uk/media/posts/24/st-nicholas-church-hardenhuish-qr.png</image:loc>
+<image:loc>https://www.johnwoodtheelder.co.uk/media/posts/24/st-nicholas-church-hardenhuish-qr.png</image:loc>
 <image:title><![CDATA[Church of St. Nicholas, Hardenhuish, Chippenham QR]]></image:title>
 </image:image>
 </url>
 <url>
-<loc>https://www.georgianbath.co.uk/conveyance-for-14-the-circus-bath/</loc>
+<loc>https://www.johnwoodtheelder.co.uk/conveyance-for-14-the-circus-bath/</loc>
 <lastmod>2023-05-12T13:09:10+01:00</lastmod>
 <image:image>
-<image:loc>https://www.georgianbath.co.uk/media/posts/20/14-The-Circus.jpeg</image:loc>
+<image:loc>https://www.johnwoodtheelder.co.uk/media/posts/20/14-The-Circus.jpeg</image:loc>
 <image:title><![CDATA[14 The Circus, Bath]]></image:title>
 </image:image>
 </url>
 <url>
-<loc>https://www.georgianbath.co.uk/de-montalt-place-combe-down/</loc>
+<loc>https://www.johnwoodtheelder.co.uk/de-montalt-place-combe-down/</loc>
 <lastmod>2023-05-27T07:05:37+01:00</lastmod>
 <image:image>
-<image:loc>https://www.georgianbath.co.uk/media/posts/34/De-Montalt-Place-Church-Road-Combe-Down.jpeg</image:loc>
+<image:loc>https://www.johnwoodtheelder.co.uk/media/posts/34/De-Montalt-Place-Church-Road-Combe-Down.jpeg</image:loc>
 <image:title><![CDATA[De Montalt Place, Combe Down]]></image:title>
 </image:image>
 <image:image>
-<image:loc>https://www.georgianbath.co.uk/media/posts/34/De-Montalt-Place-Church-Road-Combe-Down-thorpes-map-2.png</image:loc>
+<image:loc>https://www.johnwoodtheelder.co.uk/media/posts/34/De-Montalt-Place-Church-Road-Combe-Down-thorpes-map-2.png</image:loc>
 <image:title><![CDATA[De Montalt Place (now Church Road), Combe Down Bath from Thorpes map 1742]]></image:title>
 </image:image>
 <image:image>
-<image:loc>https://www.georgianbath.co.uk/media/posts/34/De-Montalt-Place-qr.png</image:loc>
+<image:loc>https://www.johnwoodtheelder.co.uk/media/posts/34/De-Montalt-Place-qr.png</image:loc>
 <image:title><![CDATA[De Montalt Place QR]]></image:title>
 </image:image>
 </url>
 <url>
-<loc>https://www.georgianbath.co.uk/duke-street-bath/</loc>
+<loc>https://www.johnwoodtheelder.co.uk/duke-street-bath/</loc>
 <lastmod>2023-05-27T06:56:20+01:00</lastmod>
 <image:image>
-<image:loc>https://www.georgianbath.co.uk/media/posts/40/duke-street.jpeg</image:loc>
+<image:loc>https://www.johnwoodtheelder.co.uk/media/posts/40/duke-street.jpeg</image:loc>
 <image:title><![CDATA[Duke Street, Bath]]></image:title>
 </image:image>
 <image:image>
-<image:loc>https://www.georgianbath.co.uk/media/posts/40/duke-street-qr.png</image:loc>
+<image:loc>https://www.johnwoodtheelder.co.uk/media/posts/40/duke-street-qr.png</image:loc>
 <image:title><![CDATA[Duke Street QR]]></image:title>
 </image:image>
 </url>
 <url>
-<loc>https://www.georgianbath.co.uk/eagle-house-batheaston/</loc>
+<loc>https://www.johnwoodtheelder.co.uk/eagle-house-batheaston/</loc>
 <lastmod>2023-05-27T06:52:46+01:00</lastmod>
 <image:image>
-<image:loc>https://www.georgianbath.co.uk/media/posts/46/eagle-house-batheaston.jpeg</image:loc>
+<image:loc>https://www.johnwoodtheelder.co.uk/media/posts/46/eagle-house-batheaston.jpeg</image:loc>
 <image:title><![CDATA[Eagle House, Batheaston]]></image:title>
 </image:image>
 <image:image>
-<image:loc>https://www.georgianbath.co.uk/media/posts/46/eagle-house-qr.png</image:loc>
+<image:loc>https://www.johnwoodtheelder.co.uk/media/posts/46/eagle-house-qr.png</image:loc>
 <image:title><![CDATA[Eagle House QR]]></image:title>
 </image:image>
 </url>
 <url>
-<loc>https://www.georgianbath.co.uk/gay-street-bath/</loc>
+<loc>https://www.johnwoodtheelder.co.uk/gay-street-bath/</loc>
 <lastmod>2023-05-27T06:59:48+01:00</lastmod>
 <image:image>
-<image:loc>https://www.georgianbath.co.uk/media/posts/50/gay-street.jpeg</image:loc>
+<image:loc>https://www.johnwoodtheelder.co.uk/media/posts/50/gay-street.jpeg</image:loc>
 <image:title><![CDATA[Gay Street, Bath]]></image:title>
 </image:image>
 <image:image>
-<image:loc>https://www.georgianbath.co.uk/media/posts/50/gay-street-qr.png</image:loc>
+<image:loc>https://www.johnwoodtheelder.co.uk/media/posts/50/gay-street-qr.png</image:loc>
 <image:title><![CDATA[Gay Street, Bath QR]]></image:title>
 </image:image>
 </url>
 <url>
-<loc>https://www.georgianbath.co.uk/ground-radar-john-woods-ledger-stone/</loc>
+<loc>https://www.johnwoodtheelder.co.uk/ground-radar-john-woods-ledger-stone/</loc>
 <lastmod>2023-05-14T09:37:30+01:00</lastmod>
 <image:image>
-<image:loc>https://www.georgianbath.co.uk/media/posts/22/John-Wood-the-Elder-grave.jpeg</image:loc>
+<image:loc>https://www.johnwoodtheelder.co.uk/media/posts/22/John-Wood-the-Elder-grave.jpeg</image:loc>
 <image:title><![CDATA[John Wood’s Ledger Stone]]></image:title>
 </image:image>
 <image:image>
-<image:loc>https://www.georgianbath.co.uk/media/posts/22/bathnewseum.png</image:loc>
+<image:loc>https://www.johnwoodtheelder.co.uk/media/posts/22/bathnewseum.png</image:loc>
 <image:title><![CDATA[bathnewseum.com]]></image:title>
 </image:image>
 </url>
 <url>
-<loc>https://www.georgianbath.co.uk/heytesbury-house-warminster/</loc>
+<loc>https://www.johnwoodtheelder.co.uk/heytesbury-house-warminster/</loc>
 <lastmod>2023-05-27T06:53:50+01:00</lastmod>
 <image:image>
-<image:loc>https://www.georgianbath.co.uk/media/posts/42/heytesbury-house.png</image:loc>
+<image:loc>https://www.johnwoodtheelder.co.uk/media/posts/42/heytesbury-house.png</image:loc>
 <image:title><![CDATA[Heytesbury House, Warminster]]></image:title>
 </image:image>
 <image:image>
-<image:loc>https://www.georgianbath.co.uk/media/posts/42/heytesbury-house-qr.png</image:loc>
+<image:loc>https://www.johnwoodtheelder.co.uk/media/posts/42/heytesbury-house-qr.png</image:loc>
 <image:title><![CDATA[Heytesbury House Warminster QR]]></image:title>
 </image:image>
 </url>
 <url>
-<loc>https://www.georgianbath.co.uk/john-wood-the-elders-drawing-instruments/</loc>
+<loc>https://www.johnwoodtheelder.co.uk/john-wood-the-elders-drawing-instruments/</loc>
 <lastmod>2023-05-27T06:49:05+01:00</lastmod>
 <image:image>
-<image:loc>https://www.georgianbath.co.uk/media/posts/16/john-wood-the-elder-drawing-instruments-1-2.jpeg</image:loc>
+<image:loc>https://www.johnwoodtheelder.co.uk/media/posts/16/john-wood-the-elder-drawing-instruments-1-2.jpeg</image:loc>
 <image:title><![CDATA[John Wood the Elder’s Drawing Instrument]]></image:title>
 </image:image>
 <image:image>
-<image:loc>https://www.georgianbath.co.uk/media/posts/16/john-wood-the-elder-drawing-instruments-1.jpeg</image:loc>
+<image:loc>https://www.johnwoodtheelder.co.uk/media/posts/16/john-wood-the-elder-drawing-instruments-1.jpeg</image:loc>
 <image:title><![CDATA[John Wood the Elder's - Drawing Instruments]]></image:title>
 </image:image>
 <image:image>
-<image:loc>https://www.georgianbath.co.uk/media/posts/16/john-wood-the-elder-drawing-instruments-2.jpeg</image:loc>
+<image:loc>https://www.johnwoodtheelder.co.uk/media/posts/16/john-wood-the-elder-drawing-instruments-2.jpeg</image:loc>
 <image:title><![CDATA[John Wood the Elder’s drawing instruments]]></image:title>
 </image:image>
 </url>
 <url>
-<loc>https://www.georgianbath.co.uk/john-wood-the-elders-graves-restored/</loc>
+<loc>https://www.johnwoodtheelder.co.uk/john-wood-the-elders-graves-restored/</loc>
 <lastmod>2023-05-12T08:11:08+01:00</lastmod>
 <image:image>
-<image:loc>https://www.georgianbath.co.uk/media/posts/17/John-Wood-the-Elder-grave-2.jpeg</image:loc>
+<image:loc>https://www.johnwoodtheelder.co.uk/media/posts/17/John-Wood-the-Elder-grave-2.jpeg</image:loc>
 <image:title><![CDATA[John Wood the Elder’s Graves Restored]]></image:title>
 </image:image>
 <image:image>
-<image:loc>https://www.georgianbath.co.uk/media/posts/17/st-mary-upper-swainswick.jpeg</image:loc>
+<image:loc>https://www.johnwoodtheelder.co.uk/media/posts/17/st-mary-upper-swainswick.jpeg</image:loc>
 <image:title><![CDATA[St Mary Upper Swainswick]]></image:title>
 </image:image>
 </url>
 <url>
-<loc>https://www.georgianbath.co.uk/lilliput-castle-lansdown-bath/</loc>
+<loc>https://www.johnwoodtheelder.co.uk/lilliput-castle-lansdown-bath/</loc>
 <lastmod>2023-05-27T07:07:42+01:00</lastmod>
 <image:image>
-<image:loc>https://www.georgianbath.co.uk/media/posts/26/lilliput-castle-battlefields-house-bath.jpeg</image:loc>
+<image:loc>https://www.johnwoodtheelder.co.uk/media/posts/26/lilliput-castle-battlefields-house-bath.jpeg</image:loc>
 <image:title><![CDATA[Lilliput Castle, Lansdown, Bath]]></image:title>
 </image:image>
 <image:image>
-<image:loc>https://www.georgianbath.co.uk/media/posts/26/lilliput-castle.png</image:loc>
+<image:loc>https://www.johnwoodtheelder.co.uk/media/posts/26/lilliput-castle.png</image:loc>
 <image:title><![CDATA[Lilliput Castle, Lansdown Bath]]></image:title>
 </image:image>
 <image:image>
-<image:loc>https://www.georgianbath.co.uk/media/posts/26/lilliput-castle-qr.png</image:loc>
+<image:loc>https://www.johnwoodtheelder.co.uk/media/posts/26/lilliput-castle-qr.png</image:loc>
 <image:title><![CDATA[Lilliput Castle, Lansdown, Bath QR]]></image:title>
 </image:image>
 </url>
 <url>
-<loc>https://www.georgianbath.co.uk/lime-kiln-spaw/</loc>
+<loc>https://www.johnwoodtheelder.co.uk/lime-kiln-spaw/</loc>
 <lastmod>2023-05-27T07:09:38+01:00</lastmod>
 <image:image>
-<image:loc>https://www.georgianbath.co.uk/media/posts/30/lime-kiln-spaw.png</image:loc>
+<image:loc>https://www.johnwoodtheelder.co.uk/media/posts/30/lime-kiln-spaw.png</image:loc>
 <image:title><![CDATA[Lime Kiln Spaw]]></image:title>
 </image:image>
 <image:image>
-<image:loc>https://www.georgianbath.co.uk/media/posts/30/lime-kiln-spaw-map.jpeg</image:loc>
+<image:loc>https://www.johnwoodtheelder.co.uk/media/posts/30/lime-kiln-spaw-map.jpeg</image:loc>
 <image:title><![CDATA[Thorpe’s 1742 map of Bath]]></image:title>
 </image:image>
 <image:image>
-<image:loc>https://www.georgianbath.co.uk/media/posts/30/lime-kiln-spaw-qr.png</image:loc>
+<image:loc>https://www.johnwoodtheelder.co.uk/media/posts/30/lime-kiln-spaw-qr.png</image:loc>
 <image:title><![CDATA[Lime Kiln Spaw QR]]></image:title>
 </image:image>
 </url>
 <url>
-<loc>https://www.georgianbath.co.uk/liverpool-town-hall/</loc>
+<loc>https://www.johnwoodtheelder.co.uk/liverpool-town-hall/</loc>
 <lastmod>2023-05-16T14:57:41+01:00</lastmod>
 <image:image>
-<image:loc>https://www.georgianbath.co.uk/media/posts/41/liverpool-town-hall.jpeg</image:loc>
+<image:loc>https://www.johnwoodtheelder.co.uk/media/posts/41/liverpool-town-hall.jpeg</image:loc>
 <image:title><![CDATA[Liverpool Town Hall]]></image:title>
 </image:image>
 <image:image>
-<image:loc>https://www.georgianbath.co.uk/media/posts/41/liverpool-town-hall-qr.png</image:loc>
+<image:loc>https://www.johnwoodtheelder.co.uk/media/posts/41/liverpool-town-hall-qr.png</image:loc>
 <image:title><![CDATA[Liverpool Town Hall QR]]></image:title>
 </image:image>
 </url>
 <url>
-<loc>https://www.georgianbath.co.uk/lyncombe-spaw-bath/</loc>
+<loc>https://www.johnwoodtheelder.co.uk/lyncombe-spaw-bath/</loc>
 <lastmod>2023-05-27T07:09:13+01:00</lastmod>
 <image:image>
-<image:loc>https://www.georgianbath.co.uk/media/posts/25/lyncombe-spaw.png</image:loc>
+<image:loc>https://www.johnwoodtheelder.co.uk/media/posts/25/lyncombe-spaw.png</image:loc>
 <image:title><![CDATA[Lyncombe Spaw, Bath]]></image:title>
 </image:image>
 <image:image>
-<image:loc>https://www.georgianbath.co.uk/media/posts/25/lyncombe-spaw-thorpes-map.png</image:loc>
+<image:loc>https://www.johnwoodtheelder.co.uk/media/posts/25/lyncombe-spaw-thorpes-map.png</image:loc>
 <image:title><![CDATA[Thorpe’s 1742 map of Bath]]></image:title>
 </image:image>
 <image:image>
-<image:loc>https://www.georgianbath.co.uk/media/posts/25/lyncombe-spaw-qr.png</image:loc>
+<image:loc>https://www.johnwoodtheelder.co.uk/media/posts/25/lyncombe-spaw-qr.png</image:loc>
 <image:title><![CDATA[Lyncombe Spaw QR]]></image:title>
 </image:image>
 </url>
 <url>
-<loc>https://www.georgianbath.co.uk/map/</loc>
+<loc>https://www.johnwoodtheelder.co.uk/map/</loc>
 <lastmod>2023-05-09T15:29:18+01:00</lastmod>
 </url>
 <url>
-<loc>https://www.georgianbath.co.uk/miless-buildings-bath/</loc>
+<loc>https://www.johnwoodtheelder.co.uk/miless-buildings-bath/</loc>
 <lastmod>2023-05-27T07:04:29+01:00</lastmod>
 <image:image>
-<image:loc>https://www.georgianbath.co.uk/media/posts/47/miless-buildings.jpeg</image:loc>
+<image:loc>https://www.johnwoodtheelder.co.uk/media/posts/47/miless-buildings.jpeg</image:loc>
 <image:title><![CDATA[Miles’s Buildings, Bath]]></image:title>
 </image:image>
 <image:image>
-<image:loc>https://www.georgianbath.co.uk/media/posts/47/miless-building-qr.png</image:loc>
+<image:loc>https://www.johnwoodtheelder.co.uk/media/posts/47/miless-building-qr.png</image:loc>
 <image:title><![CDATA[Miles's Buildings, Bath QR]]></image:title>
 </image:image>
 </url>
 <url>
-<loc>https://www.georgianbath.co.uk/national-trust-georgian-experience-bath-assembly-rooms/</loc>
+<loc>https://www.johnwoodtheelder.co.uk/national-trust-georgian-experience-bath-assembly-rooms/</loc>
 <lastmod>2023-05-27T06:50:40+01:00</lastmod>
 <image:image>
-<image:loc>https://www.georgianbath.co.uk/media/posts/19/Bath-Assembly-Rooms.jpeg</image:loc>
+<image:loc>https://www.johnwoodtheelder.co.uk/media/posts/19/Bath-Assembly-Rooms.jpeg</image:loc>
 <image:title><![CDATA[National Trust - ‘Georgian Experience’ Bath Assembly Rooms]]></image:title>
 </image:image>
 </url>
 <url>
-<loc>https://www.georgianbath.co.uk/north-parade-bath/</loc>
+<loc>https://www.johnwoodtheelder.co.uk/north-parade-bath/</loc>
 <lastmod>2023-05-27T06:57:47+01:00</lastmod>
 <image:image>
-<image:loc>https://www.georgianbath.co.uk/media/posts/36/North-Parade.jpeg</image:loc>
+<image:loc>https://www.johnwoodtheelder.co.uk/media/posts/36/North-Parade.jpeg</image:loc>
 <image:title><![CDATA[North Parade, Bath]]></image:title>
 </image:image>
 <image:image>
-<image:loc>https://www.georgianbath.co.uk/media/posts/36/pierrepont-street-qr.png</image:loc>
+<image:loc>https://www.johnwoodtheelder.co.uk/media/posts/36/pierrepont-street-qr.png</image:loc>
 <image:title><![CDATA[Pierrepont Street QR]]></image:title>
 </image:image>
 </url>
 <url>
-<loc>https://www.georgianbath.co.uk/old-king-street-bath/</loc>
+<loc>https://www.johnwoodtheelder.co.uk/old-king-street-bath/</loc>
 <lastmod>2023-05-27T07:05:08+01:00</lastmod>
 <image:image>
-<image:loc>https://www.georgianbath.co.uk/media/posts/48/old-king-street.jpeg</image:loc>
+<image:loc>https://www.johnwoodtheelder.co.uk/media/posts/48/old-king-street.jpeg</image:loc>
 <image:title><![CDATA[Old King Street, Bath]]></image:title>
 </image:image>
 <image:image>
-<image:loc>https://www.georgianbath.co.uk/media/posts/48/old-king-street-bath-qr.png</image:loc>
+<image:loc>https://www.johnwoodtheelder.co.uk/media/posts/48/old-king-street-bath-qr.png</image:loc>
 <image:title><![CDATA[Old King Street, Bath QR]]></image:title>
 </image:image>
 </url>
 <url>
-<loc>https://www.georgianbath.co.uk/pierrepont-street-bath/</loc>
+<loc>https://www.johnwoodtheelder.co.uk/pierrepont-street-bath/</loc>
 <lastmod>2023-05-15T14:06:10+01:00</lastmod>
 <image:image>
-<image:loc>https://www.georgianbath.co.uk/media/posts/35/pierrepont-street-bath.jpeg</image:loc>
+<image:loc>https://www.johnwoodtheelder.co.uk/media/posts/35/pierrepont-street-bath.jpeg</image:loc>
 <image:title><![CDATA[Pierrepont Street, Bath]]></image:title>
 </image:image>
 <image:image>
-<image:loc>https://www.georgianbath.co.uk/media/posts/35/pierrepont-street-bath-map.png</image:loc>
+<image:loc>https://www.johnwoodtheelder.co.uk/media/posts/35/pierrepont-street-bath-map.png</image:loc>
 <image:title><![CDATA[Thorpe’s Map of Bath 1743 showing Pierrepont Street]]></image:title>
 </image:image>
 <image:image>
-<image:loc>https://www.georgianbath.co.uk/media/posts/35/pierrepont-street-qr.png</image:loc>
+<image:loc>https://www.johnwoodtheelder.co.uk/media/posts/35/pierrepont-street-qr.png</image:loc>
 <image:title><![CDATA[Pierrepont Street QR]]></image:title>
 </image:image>
 </url>
 <url>
-<loc>https://www.georgianbath.co.uk/privacy-policy/</loc>
+<loc>https://www.johnwoodtheelder.co.uk/privacy-policy/</loc>
 <lastmod>2023-05-15T08:36:56+01:00</lastmod>
 </url>
 <url>
-<loc>https://www.georgianbath.co.uk/ralph-allen-cottages/</loc>
+<loc>https://www.johnwoodtheelder.co.uk/ralph-allen-cottages/</loc>
 <lastmod>2023-05-15T09:42:59+01:00</lastmod>
 <image:image>
-<image:loc>https://www.georgianbath.co.uk/media/posts/33/Ralph-Allen-Cottages.jpeg</image:loc>
+<image:loc>https://www.johnwoodtheelder.co.uk/media/posts/33/Ralph-Allen-Cottages.jpeg</image:loc>
 <image:title><![CDATA[Ralph Allen Cottages]]></image:title>
 </image:image>
 <image:image>
-<image:loc>https://www.georgianbath.co.uk/media/posts/33/Ralph-Allen-Cottages-Thorpes-Map-2.png</image:loc>
+<image:loc>https://www.johnwoodtheelder.co.uk/media/posts/33/Ralph-Allen-Cottages-Thorpes-Map-2.png</image:loc>
 <image:title><![CDATA[Thorpe's Map of Bath 1742 showing Ralph Allen Cottages]]></image:title>
 </image:image>
 <image:image>
-<image:loc>https://www.georgianbath.co.uk/media/posts/33/royal-mineral-water-hospital-bath-qr.png</image:loc>
+<image:loc>https://www.johnwoodtheelder.co.uk/media/posts/33/royal-mineral-water-hospital-bath-qr.png</image:loc>
 <image:title><![CDATA[Royal Mineral Water Hospital, Bath QR]]></image:title>
 </image:image>
 </url>
 <url>
-<loc>https://www.georgianbath.co.uk/ralph-allens-town-house-bath/</loc>
+<loc>https://www.johnwoodtheelder.co.uk/ralph-allens-town-house-bath/</loc>
 <lastmod>2023-05-16T15:35:37+01:00</lastmod>
 <image:image>
-<image:loc>https://www.georgianbath.co.uk/media/posts/43/ralph-allen-townhouse.jpeg</image:loc>
+<image:loc>https://www.johnwoodtheelder.co.uk/media/posts/43/ralph-allen-townhouse.jpeg</image:loc>
 <image:title><![CDATA[Ralph Allen’s Town House, Bath]]></image:title>
 </image:image>
 <image:image>
-<image:loc>https://www.georgianbath.co.uk/media/posts/43/ralph-allen-townhouse-qr.png</image:loc>
+<image:loc>https://www.johnwoodtheelder.co.uk/media/posts/43/ralph-allen-townhouse-qr.png</image:loc>
 <image:title><![CDATA[Ralph Allen Townhouse QR]]></image:title>
 </image:image>
 </url>
 <url>
-<loc>https://www.georgianbath.co.uk/review-of-architect-of-obsession-bath-life-magazine/</loc>
+<loc>https://www.johnwoodtheelder.co.uk/review-of-architect-of-obsession-bath-life-magazine/</loc>
 <lastmod>2023-05-12T13:13:21+01:00</lastmod>
 <image:image>
-<image:loc>https://www.georgianbath.co.uk/media/posts/21/Bath-Life-Magazine.png</image:loc>
+<image:loc>https://www.johnwoodtheelder.co.uk/media/posts/21/Bath-Life-Magazine.png</image:loc>
 <image:title><![CDATA[Review of ‘Architect of Obsession’ - Bath Life Magazine]]></image:title>
 </image:image>
 </url>
 <url>
-<loc>https://www.georgianbath.co.uk/royal-mineral-water-hospital-bath/</loc>
+<loc>https://www.johnwoodtheelder.co.uk/royal-mineral-water-hospital-bath/</loc>
 <lastmod>2023-05-14T09:33:17+01:00</lastmod>
 <image:image>
-<image:loc>https://www.georgianbath.co.uk/media/posts/23/royal-mineral-water-hospital-bath.jpeg</image:loc>
+<image:loc>https://www.johnwoodtheelder.co.uk/media/posts/23/royal-mineral-water-hospital-bath.jpeg</image:loc>
 <image:title><![CDATA[Royal Mineral Water Hospital, Bath]]></image:title>
 </image:image>
 <image:image>
-<image:loc>https://www.georgianbath.co.uk/media/posts/23/royal-mineral-water-hospital-bath-qr.png</image:loc>
+<image:loc>https://www.johnwoodtheelder.co.uk/media/posts/23/royal-mineral-water-hospital-bath-qr.png</image:loc>
 <image:title><![CDATA[Royal Mineral Water Hospital, Bath QR]]></image:title>
 </image:image>
 </url>
 <url>
-<loc>https://www.georgianbath.co.uk/salisbury-general-infirmary/</loc>
+<loc>https://www.johnwoodtheelder.co.uk/salisbury-general-infirmary/</loc>
 <lastmod>2023-05-27T06:55:13+01:00</lastmod>
 <image:image>
-<image:loc>https://www.georgianbath.co.uk/media/posts/44/Salisbury-old-infirmary.jpeg</image:loc>
+<image:loc>https://www.johnwoodtheelder.co.uk/media/posts/44/Salisbury-old-infirmary.jpeg</image:loc>
 <image:title><![CDATA[Salisbury General Infirmary]]></image:title>
 </image:image>
 <image:image>
-<image:loc>https://www.georgianbath.co.uk/media/posts/44/Salisbury-General-Infirmary-qr.png</image:loc>
+<image:loc>https://www.johnwoodtheelder.co.uk/media/posts/44/Salisbury-General-Infirmary-qr.png</image:loc>
 <image:title><![CDATA[Salisbury General Infirmary QR]]></image:title>
 </image:image>
 </url>
 <url>
-<loc>https://www.georgianbath.co.uk/shockerwick-house-bathford/</loc>
+<loc>https://www.johnwoodtheelder.co.uk/shockerwick-house-bathford/</loc>
 <lastmod>2023-05-17T08:14:37+01:00</lastmod>
 <image:image>
-<image:loc>https://www.georgianbath.co.uk/media/posts/45/shockerwick-house.jpeg</image:loc>
+<image:loc>https://www.johnwoodtheelder.co.uk/media/posts/45/shockerwick-house.jpeg</image:loc>
 <image:title><![CDATA[Shockerwick House, Bathford]]></image:title>
 </image:image>
 <image:image>
-<image:loc>https://www.georgianbath.co.uk/media/posts/45/shockerwick-house-qr.png</image:loc>
+<image:loc>https://www.johnwoodtheelder.co.uk/media/posts/45/shockerwick-house-qr.png</image:loc>
 <image:title><![CDATA[Shockerwick House QR]]></image:title>
 </image:image>
 </url>
 <url>
-<loc>https://www.georgianbath.co.uk/south-parade-bath/</loc>
+<loc>https://www.johnwoodtheelder.co.uk/south-parade-bath/</loc>
 <lastmod>2023-05-27T06:57:03+01:00</lastmod>
 <image:image>
-<image:loc>https://www.georgianbath.co.uk/media/posts/37/south-parade.jpeg</image:loc>
+<image:loc>https://www.johnwoodtheelder.co.uk/media/posts/37/south-parade.jpeg</image:loc>
 <image:title><![CDATA[South Parade, Bath]]></image:title>
 </image:image>
 <image:image>
-<image:loc>https://www.georgianbath.co.uk/media/posts/37/south-parade-qr.png</image:loc>
+<image:loc>https://www.johnwoodtheelder.co.uk/media/posts/37/south-parade-qr.png</image:loc>
 <image:title><![CDATA[South Parade QR]]></image:title>
 </image:image>
 </url>
 <url>
-<loc>https://www.georgianbath.co.uk/st-marys-chapel-queen-square-bath/</loc>
+<loc>https://www.johnwoodtheelder.co.uk/southill-house-cranmore/</loc>
+<lastmod>2023-05-27T09:14:46+01:00</lastmod>
+<image:image>
+<image:loc>https://www.johnwoodtheelder.co.uk/media/posts/52/Southill-House-Cranmore.jpeg</image:loc>
+<image:title><![CDATA[Southill House, Cranmore]]></image:title>
+</image:image>
+<image:image>
+<image:loc>https://www.johnwoodtheelder.co.uk/media/posts/52/southill-house-qr.png</image:loc>
+<image:title><![CDATA[Southill House]]></image:title>
+</image:image>
+</url>
+<url>
+<loc>https://www.johnwoodtheelder.co.uk/st-marys-chapel-queen-square-bath/</loc>
 <lastmod>2023-05-27T07:10:06+01:00</lastmod>
 <image:image>
-<image:loc>https://www.georgianbath.co.uk/media/posts/29/St-Marys-Chapel-Queen-Square-Bath.jpg</image:loc>
+<image:loc>https://www.johnwoodtheelder.co.uk/media/posts/29/St-Marys-Chapel-Queen-Square-Bath.jpg</image:loc>
 <image:title><![CDATA[St. Mary's Chapel, Queen Square, Bath]]></image:title>
 </image:image>
 <image:image>
-<image:loc>https://www.georgianbath.co.uk/media/posts/29/St-Marys-Chapel-Queen-Square-thorpes-map.png</image:loc>
+<image:loc>https://www.johnwoodtheelder.co.uk/media/posts/29/St-Marys-Chapel-Queen-Square-thorpes-map.png</image:loc>
 <image:title><![CDATA[]]></image:title>
 </image:image>
 <image:image>
-<image:loc>https://www.georgianbath.co.uk/media/posts/29/Queen-Square-F-Curtis.jpeg</image:loc>
+<image:loc>https://www.johnwoodtheelder.co.uk/media/posts/29/Queen-Square-F-Curtis.jpeg</image:loc>
 <image:title><![CDATA[Thorpe’s 1742 map of Bath]]></image:title>
 </image:image>
 <image:image>
-<image:loc>https://www.georgianbath.co.uk/media/posts/29/St-Marys-Chapel-Queen-Square-Bath-qr.png</image:loc>
+<image:loc>https://www.johnwoodtheelder.co.uk/media/posts/29/St-Marys-Chapel-Queen-Square-Bath-qr.png</image:loc>
 <image:title><![CDATA[St. Mary's Chapel QR]]></image:title>
 </image:image>
 </url>
 <url>
-<loc>https://www.georgianbath.co.uk/the-royal-crescent-bath/</loc>
+<loc>https://www.johnwoodtheelder.co.uk/the-royal-crescent-bath/</loc>
 <lastmod>2023-05-20T07:27:43+01:00</lastmod>
 <image:image>
-<image:loc>https://www.georgianbath.co.uk/media/posts/51/royal-crescent.jpeg</image:loc>
+<image:loc>https://www.johnwoodtheelder.co.uk/media/posts/51/royal-crescent.jpeg</image:loc>
 <image:title><![CDATA[The Royal Crescent, Bath]]></image:title>
 </image:image>
 <image:image>
-<image:loc>https://www.georgianbath.co.uk/media/posts/51/the-royal-crescent-qr.png</image:loc>
+<image:loc>https://www.johnwoodtheelder.co.uk/media/posts/51/the-royal-crescent-qr.png</image:loc>
 <image:title><![CDATA[The Royal Crescent, Bath QR]]></image:title>
 </image:image>
 </url>
 <url>
-<loc>https://www.georgianbath.co.uk/timeline/</loc>
+<loc>https://www.johnwoodtheelder.co.uk/timeline/</loc>
 <lastmod>2023-05-09T15:29:30+01:00</lastmod>
 </url>
 <url>
-<loc>https://www.georgianbath.co.uk/titanbarrow-logia-bathford/</loc>
+<loc>https://www.johnwoodtheelder.co.uk/titanbarrow-logia-bathford/</loc>
 <lastmod>2023-05-27T07:08:05+01:00</lastmod>
 <image:image>
-<image:loc>https://www.georgianbath.co.uk/media/posts/27/titan-barrow.jpeg</image:loc>
+<image:loc>https://www.johnwoodtheelder.co.uk/media/posts/27/titan-barrow.jpeg</image:loc>
 <image:title><![CDATA[Titanbarrow Logia, Bathford]]></image:title>
 </image:image>
 <image:image>
-<image:loc>https://www.georgianbath.co.uk/media/posts/27/titan-barrow-drawing.png</image:loc>
+<image:loc>https://www.johnwoodtheelder.co.uk/media/posts/27/titan-barrow-drawing.png</image:loc>
 <image:title><![CDATA[Titanbarrow Logia, Bathford]]></image:title>
 </image:image>
 <image:image>
-<image:loc>https://www.georgianbath.co.uk/media/posts/27/titanbarrow-logia-qr.png</image:loc>
+<image:loc>https://www.johnwoodtheelder.co.uk/media/posts/27/titanbarrow-logia-qr.png</image:loc>
 <image:title><![CDATA[Titanbarrow Logia, Bathford QR]]></image:title>
 </image:image>
 </url>
 <url>
-<loc>https://www.georgianbath.co.uk/tregenna-castle-st-ives/</loc>
+<loc>https://www.johnwoodtheelder.co.uk/tregenna-castle-st-ives/</loc>
 <lastmod>2023-05-15T08:46:40+01:00</lastmod>
 <image:image>
-<image:loc>https://www.georgianbath.co.uk/media/posts/32/tregenna-castle.jpeg</image:loc>
+<image:loc>https://www.johnwoodtheelder.co.uk/media/posts/32/tregenna-castle.jpeg</image:loc>
 <image:title><![CDATA[Tregenna Castle, St Ives]]></image:title>
 </image:image>
 <image:image>
-<image:loc>https://www.georgianbath.co.uk/media/posts/32/buckland-house-oxfordshire-qr.png</image:loc>
+<image:loc>https://www.johnwoodtheelder.co.uk/media/posts/32/buckland-house-oxfordshire-qr.png</image:loc>
 <image:title><![CDATA[Buckland House, Faringdon QR]]></image:title>
 </image:image>
 </url>
 <url>
-<loc>https://www.georgianbath.co.uk/wood-street-bath/</loc>
+<loc>https://www.johnwoodtheelder.co.uk/wood-street-bath/</loc>
 <lastmod>2023-05-18T13:13:36+01:00</lastmod>
 <image:image>
-<image:loc>https://www.georgianbath.co.uk/media/posts/49/wood-street.jpeg</image:loc>
+<image:loc>https://www.johnwoodtheelder.co.uk/media/posts/49/wood-street.jpeg</image:loc>
 <image:title><![CDATA[Wood Street, Bath]]></image:title>
 </image:image>
 <image:image>
-<image:loc>https://www.georgianbath.co.uk/media/posts/49/wood-street-bath-qr.png</image:loc>
+<image:loc>https://www.johnwoodtheelder.co.uk/media/posts/49/wood-street-bath-qr.png</image:loc>
 <image:title><![CDATA[Wood Street QR]]></image:title>
 </image:image>
 </url>
 <url>
-<loc>https://www.georgianbath.co.uk/york-buildings-bath/</loc>
+<loc>https://www.johnwoodtheelder.co.uk/york-buildings-bath/</loc>
 <lastmod>2023-05-27T06:58:59+01:00</lastmod>
 <image:image>
-<image:loc>https://www.georgianbath.co.uk/media/posts/39/york-buildings.jpeg</image:loc>
+<image:loc>https://www.johnwoodtheelder.co.uk/media/posts/39/york-buildings.jpeg</image:loc>
 <image:title><![CDATA[York Buildings, Bath]]></image:title>
 </image:image>
 <image:image>
-<image:loc>https://www.georgianbath.co.uk/media/posts/39/york-buildings-qr.png</image:loc>
+<image:loc>https://www.johnwoodtheelder.co.uk/media/posts/39/york-buildings-qr.png</image:loc>
 <image:title><![CDATA[York Buildings Bath QR]]></image:title>
 </image:image>
 </url>
