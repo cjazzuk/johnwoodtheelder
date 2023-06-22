@@ -10,6 +10,22 @@
     },
     "items": [
         {
+            "id": "https://www.johnwoodtheelder.co.uk/a-dissertation-upon-the-orders-of-columns/",
+            "url": "https://www.johnwoodtheelder.co.uk/a-dissertation-upon-the-orders-of-columns/",
+            "title": "A Dissertation upon the Orders of Columns...",
+            "summary": "Author: John Wood the Elder Date: 1750 Description: In 1750 John Wood the Elder published his A Dissertation upon the&hellip;",
+            "content_html": "<h1>Author: John Wood the Elder</h1>\n<h2>Date: 1750</h2>\n<h2>Description:</h2>\n<p>In 1750 John Wood the Elder published his <i>A Dissertation upon the Orders of Columns, and their Appendages; the whole constituting the orders of architecture: interspersed with a brief account of the various kinds of intercolumnation observed by the antients:</i><i>.  </i><a href=\"https://en.wikipedia.org/wiki/John_Wood,_the_Elder#cite_note-39\"></a></p>\n<p>It can be read below or on <a href=\"https://www.google.co.uk/books/edition/A_Dissertation_upon_the_Orders_of_Column/_hh9snIyksMC?hl=en&amp;gbpv=1&amp;dq=inauthor%3AJohn%20Wood%20the%20elder&amp;pg=PA1&amp;printsec=frontcover\" target=\"_blank\" rel=\"noopener noreferrer\">Google Books</a>.</p>\n<div class=\"post__iframe\"><iframe loading=\"lazy\" width=\"600\" height=\"800\" style=\"border: 0px;\" frameborder=\"0\" scrolling=\"no\" src=\"https://books.google.co.uk/books?id=_hh9snIyksMC&amp;newbks=0&amp;dq=inauthor%3AJohn%20Wood%20the%20elder&amp;pg=PA1&amp;output=embed\"></iframe></div>",
+            "image": "https://www.johnwoodtheelder.co.uk/media/posts/54/Orders-of-Columns.png",
+            "author": {
+                "name": "John Wood"
+            },
+            "tags": [
+                   "Publications"
+            ],
+            "date_published": "2023-06-22T16:40:27+01:00",
+            "date_modified": "2023-06-22T16:45:35+01:00"
+        },
+        {
             "id": "https://www.johnwoodtheelder.co.uk/choir-gaure-vulgarly-called-stonehenge-on-salisbury-plain/",
             "url": "https://www.johnwoodtheelder.co.uk/choir-gaure-vulgarly-called-stonehenge-on-salisbury-plain/",
             "title": "Choir Gaure, Vulgarly Called Stonehenge, on Salisbury Plain",
@@ -144,22 +160,6 @@
             ],
             "date_published": "2022-07-13T13:04:00+01:00",
             "date_modified": "2023-05-27T06:50:40+01:00"
-        },
-        {
-            "id": "https://www.johnwoodtheelder.co.uk/architect-of-obsession/",
-            "url": "https://www.johnwoodtheelder.co.uk/architect-of-obsession/",
-            "title": "Architect of Obsession",
-            "summary": "2nd May 2022 May 2022 will see the newly illustrated and revised edition of ‘Architect of Obsession : John Wood&hellip;",
-            "content_html": "<pre>2nd May 2022</pre>\n<p class=\"\">May 2022 will see the newly illustrated and revised edition of ‘Architect of Obsession : John Wood and the Creation Bath’ by Timothy Mowl &amp; Brian Earnshaw with Cathryn Spence. For anyone interested in more details on the life and history of John Wood this is a must have.</p>\n<p class=\"\">My copy of the original is well worn and I cannot wait for the new edition. Its 304 pages have been beautifully updated with new photos and colour illustrations.</p>\n<p class=\"\">Order direct £35 from <a href=\"mailto:johnwood1754@gmail.com?subject=Book%20Order%3A%20Architect%20of%20Obsession%20-%20johnwoodtheelder.co.uk%20referrer...\">johnwood1754@gmail.com</a></p>\n<p id=\"yui_3_17_2_1_1683875002417_447\" class=\"\">Promotional Flyer:</p>\n<figure class=\"post__image\"><img loading=\"lazy\"  src=\"https://www.johnwoodtheelder.co.uk/media/posts/18/Architect-of-Obsession.pdf\" alt=\"Architect of Obsession\"></figure>\n<p class=\"\">ISBN 9781838472689</p>",
-            "image": "https://www.johnwoodtheelder.co.uk/media/posts/18/Architect-of-Obsession.jpeg",
-            "author": {
-                "name": "John Wood"
-            },
-            "tags": [
-                   "News"
-            ],
-            "date_published": "2022-05-02T08:03:00+01:00",
-            "date_modified": "2023-05-14T09:38:00+01:00"
         }
     ]
 }
