@@ -10,6 +10,22 @@
     },
     "items": [
         {
+            "id": "https://www.johnwoodtheelder.co.uk/choir-gaure-vulgarly-called-stonehenge-on-salisbury-plain/",
+            "url": "https://www.johnwoodtheelder.co.uk/choir-gaure-vulgarly-called-stonehenge-on-salisbury-plain/",
+            "title": "Choir Gaure, Vulgarly Called Stonehenge, on Salisbury Plain",
+            "summary": "Author: John Wood the Elder Date: 1747 Description: In 1740 John Wood the Elder carried out a survey of Stonehenge,&hellip;",
+            "content_html": "<h1>Author: John Wood the Elder</h1>\n<h2>Date: 1747</h2>\n<h2>Description:</h2>\n<p>In 1740 John Wood the Elder carried out a survey of Stonehenge, which he published in 1747 titled <i>Choir Gaure, Vulgarly Called Stonehenge, on Salisbury Plain</i><i>.  </i><a href=\"https://en.wikipedia.org/wiki/John_Wood,_the_Elder#cite_note-39\"></a></p>\n<p>It can be read below or on <a href=\"https://www.google.co.uk/books/edition/Choir_Gaure_Vulgarly_Called_Stonehenge_o/pUgGAAAAQAAJ?hl=en&amp;gbpv=1&amp;pg=PA1&amp;printsec=frontcover\" target=\"_blank\" rel=\"noopener noreferrer\">Google Books</a>.</p>\n<div class=\"post__iframe\"><iframe loading=\"lazy\" width=\"600\" height=\"800\" style=\"border: 0px;\" frameborder=\"0\" scrolling=\"no\" src=\"https://books.google.co.uk/books?id=pUgGAAAAQAAJ&amp;newbks=0&amp;pg=PA1&amp;output=embed\"></iframe></div>",
+            "image": "https://www.johnwoodtheelder.co.uk/media/posts/53/Choir-Gaure.png",
+            "author": {
+                "name": "John Wood"
+            },
+            "tags": [
+                   "Publications"
+            ],
+            "date_published": "2023-06-22T08:40:26+01:00",
+            "date_modified": "2023-06-22T08:58:58+01:00"
+        },
+        {
             "id": "https://www.johnwoodtheelder.co.uk/privacy-policy/",
             "url": "https://www.johnwoodtheelder.co.uk/privacy-policy/",
             "title": "Privacy Policy",
@@ -144,22 +160,6 @@
             ],
             "date_published": "2022-05-02T08:03:00+01:00",
             "date_modified": "2023-05-14T09:38:00+01:00"
-        },
-        {
-            "id": "https://www.johnwoodtheelder.co.uk/john-wood-the-elders-graves-restored/",
-            "url": "https://www.johnwoodtheelder.co.uk/john-wood-the-elders-graves-restored/",
-            "title": "John Wood the Elder’s Graves Restored",
-            "summary": "2nd March 2022 Just under 3 miles North East from the centre of Bath is Upper Swainswick. Here at St&hellip;",
-            "content_html": "<pre>2nd March 2022</pre>\n<p class=\"\">Just under 3 miles North East from the centre of Bath is Upper Swainswick. Here at St Marys’s Church is the resting place of John Wood the Elder, his son and other family members. Across the valley is the wonderful <a href=\"https://www.johnwoodtheelder.co.uk/buckland-house-faringdon-2/\">All Saints Church, Woolley</a> designed by John Wood the Younger.</p>\n<p class=\"\">The memorial slabs are being restored to bring back the wonderful lettering. A very minimal monument to the Georgian Architect who gave Bath the identity it has today.</p>\n<figure class=\"post__image\"><img loading=\"lazy\"  src=\"https://www.johnwoodtheelder.co.uk/media/posts/17/st-mary-upper-swainswick.jpeg\" alt=\"St Mary Upper Swainswick\" width=\"980\" height=\"653\" sizes=\"(max-width: 48em) 100vw, 100vw\" srcset=\"https://www.johnwoodtheelder.co.uk/media/posts/17/responsive/st-mary-upper-swainswick-xs.jpeg 300w ,https://www.johnwoodtheelder.co.uk/media/posts/17/responsive/st-mary-upper-swainswick-sm.jpeg 480w ,https://www.johnwoodtheelder.co.uk/media/posts/17/responsive/st-mary-upper-swainswick-md.jpeg 768w\"><figcaption>St Mary Upper Swainswick</figcaption></figure>\n<p class=\"\">Read more about it here:</p>\n<ul data-rte-list=\"default\">\n<li>\n<p class=\"\"><a href=\"https://link.johnwoodtheelder.co.uk/BNew1\" target=\"_blank\" rel=\"noopener\">bathnewseum.com</a></p>\n</li>\n<li>\n<p class=\"\"><a href=\"https://link.johnwoodtheelder.co.uk/BMag322\" target=\"_blank\" rel=\"noopener\">Bath Magazine</a></p>\n</li>\n</ul>\n<div class=\"post__iframe\"><iframe width=\"600\" height=\"450\" style=\"border: 0;\" src=\"https://www.google.com/maps/embed?pb=!1m17!1m12!1m3!1d2488.3850981989226!2d-2.3528780215289706!3d51.41435219068699!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m2!1m1!2zNTHCsDI0JzUxLjEiTiAywrAyMScwNS40Ilc!5e0!3m2!1sen!2suk!4v1683874851728!5m2!1sen!2suk\" allowfullscreen=\"allowfullscreen\" loading=\"lazy\" referrerpolicy=\"no-referrer-when-downgrade\"></iframe></div>",
-            "image": "https://www.johnwoodtheelder.co.uk/media/posts/17/John-Wood-the-Elder-grave-2.jpeg",
-            "author": {
-                "name": "John Wood"
-            },
-            "tags": [
-                   "News"
-            ],
-            "date_published": "2022-03-02T07:50:00+00:00",
-            "date_modified": "2023-05-12T08:11:08+01:00"
         }
     ]
 }
